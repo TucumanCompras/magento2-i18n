@@ -2,12 +2,12 @@
 EMAILADMIN=info@tucumancompras.com.ar
 
 #RUTAS Y ARCHIVOS
-URLBASE=dev.sporting.com.ar
+URLBASE=dev.tucumancompras.com.ar
 RUTABASE=/opt/bitnami/apache2/htdocs
 RUTABACKUP=/datos/backups/tucumancompras.com.ar
 
 #BD INFO
 BDHOST=localhost
 BDUSER=root
-BDPASS=YzFN6EB1Bk5U
+BDPASS=YjzeFrNi6nEgBi1nBk5U
 BDNAME=magento
