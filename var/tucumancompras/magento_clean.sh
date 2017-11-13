@@ -1,17 +1,22 @@
-sudo chown -R bitnami:daemon /opt/bitnami/apps/magento/htdocs
+#!/bin/sh
 
-sudo rm -R /opt/bitnami/apps/magento/htdocs/var/cache/*
-#sudo rm -R /opt/bitnami/apps/magento/htdocs/var/generation/*
-#sudo rm -R /opt/bitnami/apps/magento/htdocs/var/di/*
-sudo rm -R /opt/bitnami/apps/magento/htdocs/var/page_cache/*
+#Incluyo la configuracion
+. "$(dirname "$0")"/config.sh
 
-#sudo php /opt/bitnami/apps/magento/htdocs/bin/magento setup:upgrade
-#sudo php /opt/bitnami/apps/magento/htdocs/bin/magento setup:di:compile
-#sudo php /opt/bitnami/apps/magento/htdocs/bin/magento setup:static-content:deploy
-sudo php /opt/bitnami/apps/magento/htdocs/bin/magento indexer:reindex
-sudo php /opt/bitnami/apps/magento/htdocs/bin/magento cache:clean
+sudo chown -R bitnami:daemon $RUTABASE
 
-sudo chown -R bitnami:daemon /opt/bitnami/apps/magento/htdocs/var/cache
-sudo chmod -R 777 /opt/bitnami/apps/magento/htdocs/var/cache
+sudo rm -R $RUTABASE/var/cache/*
+#sudo rm -R $RUTABASE/var/generation/*
+#sudo rm -R $RUTABASE/var/di/*
+sudo rm -R $RUTABASE/var/page_cache/*
+
+#sudo php $RUTABASE/bin/magento setup:upgrade
+#sudo php $RUTABASE/bin/magento setup:di:compile
+#sudo php $RUTABASE/bin/magento setup:static-content:deploy
+sudo php $RUTABASE/bin/magento indexer:reindex
+sudo php $RUTABASE/bin/magento cache:clean
+
+sudo chown -R bitnami:daemon $RUTABASE/var/cache
+sudo chmod -R 777 $RUTABASE/var/cache
 
 #sudo /opt/bitnami/ctlscript.sh restart
