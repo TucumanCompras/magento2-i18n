@@ -1,0 +1,135 @@
+Add,Agregar
+"Match Expression","Coincidir expresión"
+"Replace Expression","Reemplazar expresión"
+"Replace Char","Reemplazar caracter"
+Word,Palabra
+"Find word","Buscar palabra"
+"Replace with","Reemplazar con"
+"Add New Search Index","Agregar nuevo índice de búsqueda"
+"Save Search Index","Guardar índice de búsqueda"
+"Save and Continue Edit","Guardar y continuar edición"
+"Ignored Pages","Páginas ignoradas"
+"Database Connection","Conexión a la base de datos"
+"Database Connection Name","Nombre de conexión de base de datos"
+"Table Prefix","Prefijo de tabla"
+Options,Opciones
+"Search by parent categories names","Buscar por nombre de categorías padre"
+"Search by child products (for bundle, configurable products)","Buscar por productos hijos (para productos tipo bundle y configurables)"
+"Search by product id","Buscar por id de producto"
+"Search by custom options","Buscar por opciones personalizadas"
+"Push ""out of stock"" products to the end","Poner productos ""sin stock"" al final"
+"Url Template","Url de la plantilla"
+Attributes,Atributos
+"General Information","Information General"
+Title,Título
+Index,Indice
+Position,Posición
+Status,Estado
+Enabled,Habilitado
+Disabled,Deshabilitado
+"Search Index Information","Información de índice de búsqueda"
+"Searchable Attributes","Atributos habilitados para búsqueda"
+"Additional Options","Opciones adicionales"
+ID,ID
+Type,Tipo
+Action,Acción
+Reindex,Reindexar
+Ready,Listo
+"Reindex Required","Reindexación Requerida"
+"Search Indexes","Indices de búsqueda"
+"Manage Synonyms","Administrar sinónimos"
+"Manage Stopwords","Administrar palabras vacías (Stopwords)"
+Settings,Configuración
+"Dictionary of stopwords","Diccionario de palabras vacías (stopwords)"
+"Add New Stopword","Agregar nueva palabla vacía (Stopword)"
+"Import Dictionary","Importar diccionario"
+Stopword,Palabra vacía (Stopword)
+Store,Tienda
+Delete,Eliminar
+"Are you sure?","Está seguro?"
+Import,Importar
+Dictionary,Diccionario
+"Dictionary of synonyms","Diccionario de sinónimos"
+"Add New Synonym","Agregar nuevo sinónimo"
+Term,Término
+Synonyms,Sinónimos
+"Use comma as separator","Usar coma como separador"
+"Child block %1 not exists","El bloque Child %1 no existe"
+"The search index has been deleted.","El índice de búsqueda ha sido eliminado."
+"This search index no longer exists.","Este índice de búsqueda no existe más."
+"Edit Search Index ""%1""","Editar índice de búsqueda ""%1"""
+"New Search Index","Nuevo índice de búsqueda"
+"Reindex successfully completed.","Reindexación completada satisfactoriamente."
+"You saved the search index.","Se guardó el índice de búsqueda."
+"The stopword has been deleted.","La palabra vacía (stopword) ha sido eliminada."
+"This stopword no longer exists.","Esta palabra vacía ya no existe."
+"Imported %1 stopword(s).","Se importaron %1 palabra(s) vacía(s)."
+"Stopword ""%1""","Palabra vacía ""%1"""
+"New Stopword","Nueva palabra vacía"
+"Import Stopwords","Importar palabras vacías (stopwords)"
+"Please select stopword(s).","Por favor selecciones las palabra(s) vacía(s)."
+"A total of %1 record(s) have been deleted.","Un total de %1 registro(s) han sido eliminados."
+"You saved the stopword.","Se ha guardado la palabra vacía."
+"The synonym has been deleted.","El sinónimo ha sido eliminado."
+"This synonym no longer exists.","Este sinónimo ya no existe."
+"Imported %1 synonym(s).","Se ha importado %1 sinónimo(s)."
+"Synonyms for ""%1""","Sinónimos para ""%1"""
+"New Synonym","Nuevo sinónimo"
+"Import Synonyms","Importar sinónimos"
+"Please select synonym(s).","Por favor seleccionar sinónimo(s)."
+"You saved the synonym.","Se ha guardado el sinónimo."
+"Expression does not contain field '%1'","La expresión no contiene el campo '%1'"
+"Invalid regular expression: ""%1"".","Expresión regular inválida: ""%1""."
+"Built-in Sphinx Search Engine","Sphinx Search Engine Interno"
+"External Sphinx Search Engine","Sphinx Search Engine Externo"
+"Enabled (*word*)","(*palabra*) Habilitada"
+"Enabled at end (word*)","(palabra*) Habilitada al final"
+"Enabled at start (*word)","(*palabra) Habilitada al inicio"
+"Instance for '%1' not found","Instancia para '%1' no encontrada"
+"Wordpress Blog","Blog de WordPress"
+External,Externo
+"Post Title","Título del Post"
+"Post Content","Contenido del Post"
+"Post Excerpt","Extracto del Post"
+Category,Categoría
+Magento,Magento
+Name,Nombre
+Description,Descripción
+"Page Title","Título de página"
+"Meta Keywords","Meta Palabras clave"
+"Meta Description","Meta Descripción"
+Product,Producto
+"Cms Page","Página CMS"
+Content,Contenido
+"Content Heading","Encabezado del contenido"
+"Line #%1: ","Linea #%1: "
+"Stopword ""%1"" can contain only one word.","La palabra vacía ""%1"" sólo puede contener una palabra."
+"Stopword contains an invalid character: ""%1"".","La palabra vacía contiene un caracter inválido: ""%1""."
+"The length of synonym must be greater than 1.","La longitud del sinónimo debe ser mayor a 1."
+"Synonym ""%1"" can contain only one word.","El sinónimo ""%1"" puede contener sólo una palabra."
+"The page you requested was not found, but we have searched for relevant content.","La página que solicitó no fué encontrada, pero hemos buscado contenido relevante."
+"Add after","Agregar después"
+Attribute,Atributo
+Weight,Peso
+"Add Attribute","Agregar Atributo"
+"1 - minimum weight, 10 - maximum weight","1 - peso mínimo, 10 - peso máximo"
+"%1 (%2)","%1 (%2)"
+"Sphinx Search","SBúsqueda Sphinx"
+"Search Engine Configuration","Configuración del motor de búsqueda"
+"Search Engine","Motor de búsqueda"
+"Search Settings","Configuración de búsqueda"
+"Wildcard search","Comodines de búsqueda"
+"Enable redirect from 404 to search results","Habilitar la redirección del error 404 hacia los resultados de búsqueda"
+"Redirect if Single Result","Redireccinar si hay solo un resultado de búsqueda"
+"Enable Google Sitelinks Search","Habilitar la búsqueda de Google Sitelinks"
+"Enable search terms highlighting","Habilitar el resaltado de los términos de búsqueda"
+"Display Related Search Terms","Mostrar términos de búsqueda relacionados"
+"Max number of items in the result","Número máximo de items en el resultado"
+"Wildcard Exceptions","Excepciones de comodines"
+"Replace words in search query","Reemplazar palabras en la consulta de la búsqueda"
+"""Not"" words","Palabras ""Not"""
+"Long Tail Expressions","Expresiones Long Tail"
+"Multi-Store Search Results","Resultados de búsqueda Multi-tienda"
+"Enable Multi-Store Search Results","Habilitar resultados de búsqueda Multi-tienda"
+Stores,Tiendas
+Dictionary successfully processed.
