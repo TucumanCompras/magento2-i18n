@@ -9,5 +9,5 @@ RUTABACKUP=/datos/backups/tucumancompras.com.ar
 #BD INFO
 BDHOST=localhost
 BDUSER=root
-BDPASS=YjzeFrNi6nEgBi1nBk5U
+BDPASS=YjjezreiFnrgNiin6nEgBi1nBk5U
 BDNAME=magento
