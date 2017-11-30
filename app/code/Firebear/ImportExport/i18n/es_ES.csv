@@ -1,0 +1,215 @@
+Back,Atrás
+"Delete Export Job","Eliminar trabajo de exportación"
+"Are you sure you want to do this?","Está seguro que desea hacer esto?"
+"Save & Run","Guardar & Ejecutar"
+"Save and Continue Edit","Guardar y continuar edición"
+"Save Job","Guardar trabajo"
+"View History","Ver Historial"
+"Delete Import Job","Eliminar trabajo de importación"
+"You deleted the job.","Se eliminó el trabajo."
+"We can't find a job to delete.","No se puuede enconttrar un trabajo para eliminar."
+"The job changed status.","El trabajo cambió su estado."
+"We can't find a job to сhange status.","No se puede enconttrar un trabajo para cambiar su estado."
+"This job is no longer exists.","El trabajo ya no existe."
+"Export Jobs","Trabajos de exportación"
+Export,Exportar
+"Edit Job","Editar Trabajo"
+"New Job","Nuevo trabajo"
+Jobs,Trabajos
+"Please correct the data sent.","Por favor corrija los datos enviados."
+"Something went wrong while saving the export job.","Algo anduvo mal mientras se guardaba el trabajo de exportación."
+"This export no longer exists.","Esta exportación no existe más."
+"You saved the export.","Se guardó la exportación."
+"Something went wrong while saving the export.","Algo anduvo mal mientras se guardaba la exportación."
+"The job has been deleted.","El trabajo ha sido eliminado."
+"File not found.","No se encontró el archivo."
+"Import Jobs","Trabajos de importación"
+Import,Importar
+"Something went wrong while saving the job.","Algo anduvo mal mientras se guardaba el trabajo."
+"Job title can't be empty.","El título del trabajo no puede estar vacío."
+"This job no longer exists.","Este trabajo no existe más."
+"Job was saved successfully.","El trabajo fué guardado satisfactoriamente."
+Status,Estado
+"Maximum error count has been reached or system error is occurred!","Se alcanzó el máximo conteo de errores u ocurrió un error de sistema!"
+"Import successfully done","Importación completada satisfactoriamente"
+"Sorry, but the data is invalid or the file is not uploaded.","Lo siento, pero los datos son inválidos o el archivo no ha sido subido."
+"The file was not uploaded.","El archivo no ha sido subido."
+"This file is empty. Please try another one.","Este archivo está vacío, por favor intentelo con otro."
+"Data validation failed. Please fix the following errors and upload the file again.","Falló la validación de datos. Por favor corrija los siguientes errores y suba el archivo nuevamente."
+"Attributes <strong id=""missing_attributes_list"">%1</strong> are not exist in your system.","Los atributos <strong id=""missing_attributes_list"">%1</strong> no existen en su sistema."
+"<span id=""missing_attribute_values_list"">Some attribute values are not exist in your system.</span>","<span id=""missing_attribute_values_list"">Algunos valores de atributo no existen en su sistema.</span>"
+"File is valid!","El archivo es válido!"
+"The file is valid, but we can't import it for some reason.","El archivo es válido, pero por alguna razón no podemos importarlo."
+"Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Filas verificadas: %1, entidades verificadas: %2, filas inválidas: %3, errores totales: %4"
+"<span id=""attribute_created"">All missing attribute values were created. Validate your Job again!</span>","<span id=""attribute_created"">Todos los valores de atributos inexistentes fueron creados. Valide su trabajo nuevamente!</span>"
+"Import source type class for '"" . . ""' is not exist.","El tipo de clase de origen de importación para '"" . . ""' no existe."
+"Begin export of %1","Comenzar exportación de %1"
+"There is no data for the export.","No existen datos para la exportación."
+"Exported %1 rows.","Se exportaron %1 filas."
+"The export is finished.","La exportación finalizó."
+"Please provide filter data.","Por favor provea los datos de filtrado."
+"Please enter a correct entity model.","Por favor ingrese un modelo de entidad correcto."
+"The adapter object must be an instance of %1.","El objeto adaptador debe ser una instancia de %1."
+"Please correct the file format.","Por favor corrija el formato de archivo."
+"The header column names are already set.","Los nombres de encabezado de columna ya fueron seteados."
+"Could not save the job: %1","No se puuede guardar el trabajo: %1"
+"Export History with id ""%1"" does not exist.","El historial de exportación con id ""%1"" no existe."
+"Could not delete the job: %1","No se puede eliminar el trabajo: %1"
+Orders,Pedidos
+"You have not selected items","No se han seleccionado items"
+"Begin Export","Comenzar Exportación"
+"Scope Data","Scope de los datos"
+"Write to Source","Escribir en origen"
+label,etiqueta
+"Entity %1","Entidad %1"
+"Job with id ""%1"" does not exist.","El trabajo con el id ""%1"" no existe."
+"Unable to open SFTP connection as %1@%2","No se puede abrir la conexión SFTP como %1@%2"
+"Begin data validation","Comenzar validación de los datos"
+"Import data validation is complete.","Validación de los datos de importación completada."
+"Too many errors. Please check your debug log file.","Demasiados errores. Por favor chequee el archivo de registro de depuración."
+"Import job #' . . ' failed.","El trabajo de importación #' . . ' falló."
+"in rows","en filas"
+"'%1' model extension is not supported","La extensión del modelo '%1' no está soportada"
+"Adapter must be an instance of \Magento\ImportExport\Model\Import\AbstractSource","El Adaptador debe ser una instancia de \Magento\ImportExport\Model\Import\AbstractSource"
+"email: %1 is not valided","email: %1 no se ha validado"
+"email: %1 .... %2s","email: %1 .... %2s"
+"sku: %1 .... %2s","sku: %1 .... %2s"
+"name: %1 .... %2s","nombre: %1 .... %2s"
+"Import History with id ""%1"" does not exist.","El historial de importación con el id ""%1"" no existe."
+"sku: %1 is not valided","sku: %1 no se ha validado"
+"Imported: %1 rows","Importadas: %1 filas"
+"Updated: %1 rows","Actualizadas: %1 filas"
+"Checked column %1","Columna %1 chequeada"
+"Finish checking columns","Finalizó el chequeo de columnas"
+"Errors count: %1","Conteo de errores: %1"
+"Start saving bunches","Comenzar a guardar ramas"
+"Finish saving bunches","Finalizar guardado de ramas"
+"File directory '%1' is not readable.","El directorio de archivo '%1' no se puede leer."
+"File directory '%1' is not writable.","El directorio de archivo '%1' no se puede escribir."
+Enabled,Habilitado
+Disabled,Deshabilitado
+None,ninguno
+"None (manual run only)","Ninguno (sólo ejecución manual)"
+Minute,Minuto
+"Every minute","Cada minuto"
+Hour,Hora
+"Every hour","Cada Hora"
+Day,Día
+"Every day at 3:00am","Cada día a las 3:00am"
+Week,Semana
+"Every Monday at 3:00am","Cada Lunes a las 3:00am"
+Month,Mes
+"Every 1st day of month at 3:00am","Cada 1º de mes a las 3:00am"
+Custom,Personalizado
+"Could not save the map: %1","No se puuede guardar el mapeo: %1"
+"Map with id ""%1"" does not exist.","El mapeo con el id ""%1"" no existe."
+"Could not delete the map: %1","No se puuede eliminar el mapeo: %1"
+"Data validation is failed. Please fix errors and re-upload the file..","Falló la validación de los datos. Por favor corrija los errores y vuelva a subir el archivo."
+"in rows:","en filas:"
+"Unable to open your file. Please make sure File Path is correct.","No se puede abrir su archivo. Por favor asegúrese que la ruta del archivo sea la correcta."
+"Unable to open your CSV file. Please make sure File Path is correct.","No se puede abrir su archivo CSV. Por favor asegúrese que la ruta del archivo sea la correcta."
+"Duplicated attributes.","Atributos duplicados."
+"""Can't create local file /var/import/dropbox'. Please check files permissions. "" .","""No se puede crear el archivo local /var/import/dropbox'. Por favor chequuee los permisos de archivo. "" ."
+"File not found on Dropbox","No se encontró el archivo en Dropbox"
+"Can't initialize %s client","No se puede inicializar el cliente %s "
+"Folder for import / export don't have enough permissions! Please set 775","La carpeta de importación / exportación no tiene los suficientes permisos! Por favor setéelos en 775"
+"File not found","Archivo no encontrado"
+"You have installed and enabled FireBear Studio Improved Import / Export extension - to use it please go to System -> %1 / %2. We don't improve and not make any changes on default Magento 2 Import / Export behaviour!","Se ha instalado y habilitado la extensión Importación / Exportación Mejorada de FireBear Studio - para utilizarla por favor diríjase a Sistema -> %1 / %2. No mejoramos ni realizamos ningún cambio en el comportamiento de Importación / Exportación de Magento 2 !"
+"File is valid! To start import process press ""Import"" button","El archivo es válido! Para empezar el proceso de importación presione el botón ""Importar"" "
+"Show more","Mostrar más"
+"Additional data","Datos adicionales"
+"Following Error(s) has been occurred during importing process:","Los siguientes errore(es) se han encontrado durante el proceso de importación:"
+"Only the first 100 errors are shown. ","Sólo los primeros 100 errores son mostrados. "
+"Download full report","Descargar reporte completo"
+"in row(s):","en fila(s):"
+"The format of this file is not suitable","El formato de este archivo no es el adecuado"
+"Edit & Run","Editar & Ejecutar"
+Delete,Eliminar
+"Delete ""${ $.$data.title }""","Delete ""${ $.$data.title }"""
+"Are you sure you want to delete a ""${ $.$data.title }"" record?","Are you sure you want to delete a ""${ $.$data.title }"" record?"
+Enable,Habilitar
+Disable,Deshabilitar
+Minutes,Minutos
+Hours,Horas
+Days,Días
+Months,Meses
+"Days of Week","Días de Semana"
+"-- Please Select --","-- Por favor Seleccione --"
+"Product Attributes","Atributos de producto"
+"Special Fields","Campos especiales"
+"Other Fields","Otros campos"
+Yes,Si
+No,No
+"Stop on Error","Detenerse cuando ocurra un error"
+"Skip error entries","Saltear mensajes de error"
+Download,Descargar
+notice,aviso
+"Some items may not be compatible","Algunos items pueden no ser compatibles"
+"Download file","Descargar archivo"
+"Please configure File Path.","Por favor configure la ruta de archivo."
+"Fail! Can't connect ","Error! No se puede conectar "
+"Success! Your connection is ready!","Felicitaciones! Su conexión está lista!"
+"Error on General : You have not selected a Entity Type yet or wrong File Path!","Error General : No ha seleccionado un tipo de entidad aún o la ruta al archivo es incorrecta!"
+"The import may not work correctly. No match for fields: ","La importación puede no funcionar correctamente. No hay coincidencia para los campos: "
+"File validated successfully. Please review and update custom mapping settings if necessary and click Save & Run to run the import job","Archivo validado satisfactoriamente. Por favor revise y actualice las opciones de mapeo personalizadas si es neccesario y haga click en Guardar & Ejecutar para correr el trabajo de importación"
+"Select A Column","Seleccione una columna"
+"File you are trying to upload exceeds maximum file size limit.( ","El archivo que intenta subir excede el límite de tamaño máximo de archivo.( "
+"Job saved successfully - please click Run button for launch","Trabajo guardado satisfactiriamente - Por favor jaga click el el botón Ejecutar para comenzar"
+Error,Error
+"The process is over","El proceso terminó"
+"Improved Import / Export","Importación / Exportación Mejorada"
+"Firebear Studio","Firebear Studio"
+Import/Export,Importar/Exportar
+General,General
+"Create attributes values on the fly","Creal valores de atributo cobre la marcha"
+"Add New Job","Agregar nuevo trabajo"
+ID,ID
+JobId,IdTrabajo
+Type,Tipo
+Start,Comenzar
+Finish,Finalizar
+Log,Log
+"Delete items","Eliminar items"
+"Are you sure you want to delete selected items?","Está seguro que desea eliminar los ítems seleccionados?"
+Edit,Editar
+Title,Título
+Cron,Cron
+Frequency,Frecuencia
+"Entity Type","Tipo de Entidad"
+"Export Source","Origen de Exportación"
+"General Information","Información General"
+"General Settings","Configuración General"
+"Enable Job","Habilitar trabajo"
+"Job Title","Título del trabajo"
+"Cron Shedule","Cron Shedule"
+"Export Settings","Configuración de Exportación"
+Entity,Entidad
+"Export Behavior","Comportamiento de exportación"
+"File Format","Formato de archivo"
+"Field Separator","Separador de campo"
+"Multiple value separator","Separador de valores múltiples"
+"Field Enclosure","Campos encerrados"
+"Map Attributes","Mapear Atributos"
+"Only fields from Mapping","Sólo campos de mapeo"
+"Add New","Agregar Nuevo"
+"Mapping feature allows you to set the conformity between custom data structure and Magento 2 fields. Entity - source of system attribute; System Attribute - select system attributes that should be mapped to custom attributes; Export Attributes - specify custom attributes; DefaultValued - add hardcoded values if necessary.",
+La función de mapeo le permite establecer la conformidad entre la estructura de datos personalizada y los campos de Magento 2. Entidad: fuente del atributo del sistema; Atributo del sistema: seleccione los atributos del sistema que deben asignarse a los atributos personalizados; Atributos de exportación: especifique los atributos personalizados; Valor predeterminado: agregue código fijo. valores si es necesario ".
+"System Attribute","Atributo de Sistema"
+"Export Attribute","Atributo de Exportación"
+"${ $.parentName}.source_data_system:value","${ $.parentName}.source_data_system:value"
+"Default Value","Valor por Defecto"
+Filters,Filtros
+"Add Filter","Agregar Filtro"
+"Filters allow you to import / export only specific entities which match configured filter conditions.","Los filtros le permiten Importar / Exportar sólo entidades específicas que concuerden con las condiciones de filtrado configuradas."
+${$.parentName}.source_filter_entity:value,${$.parentName}.source_filter_entity:value
+Field,Campo
+Filter,Filtrar
+Debug,Depurar
+"Import Settings","Opciones de importación"
+"Import Behavior","Comportamiento de importación"
+"Category Levels separated by","Etiquetas de categoría separadas por"
+"Categories separated by","Categorías separadas por"
+"Import Source","Origen de importación"
+"Import File Type","Tipo de archivo de importación"
+"Select A Platform","Seleccione una plataforma"
+"Import Attribute","Importar Atributo"
