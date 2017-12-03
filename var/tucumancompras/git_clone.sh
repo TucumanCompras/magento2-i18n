@@ -9,4 +9,4 @@ cd $RUTABASE/temporal
 git clone https://github.com/TucumanCompras/magento2.git .
 cp -R $RUTABASE/temporal/* $RUTABASE
 rm -R $RUTABASE/temporal
-chmod -R 777 $RUTABASE/var/tucumancompras/*.sh
+chmod -R 777 $RUTABASE/var/tucumancompras/shell/*.sh
