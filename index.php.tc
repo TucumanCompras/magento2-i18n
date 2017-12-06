@@ -55,7 +55,6 @@ switch($_SERVER['HTTP_HOST']) {
                      $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
 		break;
 
-
 		case 'tiendamix.tucumancompras.com.ar':
 		case 'www.tiendamix.tucumancompras.com.ar':
 		case 'tiendamix.com.ar':
