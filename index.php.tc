@@ -72,6 +72,14 @@ switch($_SERVER['HTTP_HOST']) {
                      $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
 		break;
 
+		case 'mobel.tucumancompras.com.ar':
+		case 'www.mobel.tucumancompras.com.ar':
+		case 'mobel.com.ar':
+		case 'www.mobel.com.ar':
+		     $params[\Magento\Store\Model\StoreManager::PARAM_RUN_CODE] = 'mobel_site';
+                     $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
+		break;
+
 	}
 $bootstrap = \Magento\Framework\App\Bootstrap::create(BP, $params);
 /* Edit FIN */
