@@ -751,47 +751,47 @@ Anchor,Anchor
 "Use All","Use All"
 "Default Product Listing Sort By","Default Product Listing Sort By"
 "Layered Navigation Price Step","Layered Navigation Price Step"
-"URL Key","URL Key"
-"Meta Title","Meta Title"
-"Meta Keywords","Meta Keywords"
-"Meta Description","Meta Description"
-"Products in Category","Products in Category"
-Design,Design
-Theme,Theme
+"URL Key","Clave URL"
+"Meta Title","Meta Título"
+"Meta Keywords","Meta Palabras clave"
+"Meta Description","Meta Descripción"
+"Products in Category","Productos en Categoría"
+Design,Diseño
+Theme,Tema
 Layout,Layout
-"Layout Update XML","Layout Update XML"
-"Apply Design to Products","Apply Design to Products"
-"Schedule Design Update","Schedule Design Update"
+"Layout Update XML","XML de actualizacion de Layout"
+"Apply Design to Products","Aplicar diseño a Productos"
+"Schedule Design Update","Actualización de diseño programada"
 AttributeSetText,AttributeSetText
 StatusText,StatusText
-"Product Image Watermarks","Product Image Watermarks"
+"Product Image Watermarks","Marcas de agua de la imagen de producto"
 Base,Base
-"Allowed file types: jpeg, gif, png.","Allowed file types: jpeg, gif, png."
-Image,Image
-"Image Opacity","Image Opacity"
-"Example format: 200x300.","Example format: 200x300."
-"Image Position","Image Position"
-Small,Small
-"Attribute Properties","Attribute Properties"
-"Attribute Label","Attribute Label"
-"Catalog Input Type for Store Owner","Catalog Input Type for Store Owner"
-Values,Values
-"Add this attribute to the list of column options in the product grid.","Add this attribute to the list of column options in the product grid."
-"Add this attribute to the list of filter options in the product grid.","Add this attribute to the list of filter options in the product grid."
-System,System
-"All Store Views","All Store Views"
-"Delete selected items?","Delete selected items?"
-"Delete items","Delete items"
-"Change status","Change status"
-Enable,Enable
-Disable,Disable
-"Update attributes","Update attributes"
-Overview,Overview
-"Skip to the end of the images gallery","Skip to the end of the images gallery"
-"Skip to the beginning of the images gallery","Skip to the beginning of the images gallery"
-Details,Details
-"Recently Compared","Recently Compared"
-"Add To Cart","Add To Cart"
-"Add To Compare","Add To Compare"
-"Learn more","Learn more"
-"Recently Viewed","Recently Viewed"
+"Allowed file types: jpeg, gif, png.","Tipos de archivo permitido: jpeg, gif, png."
+Image,Imagen
+"Image Opacity","Opacidad de la imagen"
+"Example format: 200x300.","Formato de ejemplo: 200x300."
+"Image Position","Posición de la imagen"
+Small,Pequeña
+"Attribute Properties","Propiedades del atributo"
+"Attribute Label","Etiqueta del atributo"
+"Catalog Input Type for Store Owner","Tipo de entrada de catálogo para el propietario de la tienda"
+Values,Valores
+"Add this attribute to the list of column options in the product grid.","Agregar este atributo a la lista de opciones de columna en la grilla de productos."
+"Add this attribute to the list of filter options in the product grid.","Agregar este atributo a la lista de opciones de filtrado en la grilla de productos."
+System,Sistema
+"All Store Views","Todas las vistas de tienda"
+"Delete selected items?","Eliminar items seleccionados?"
+"Delete items","Eliminar items"
+"Change status","Cambiar Estado"
+Enable,Habilitar
+Disable,Deshabilitar
+"Update attributes","Actualizar atributos"
+Overview,Vista general
+"Skip to the end of the images gallery","Ir hasta el fin de la galería de imágenes"
+"Skip to the beginning of the images gallery","Ir hasta el inicio de la galería de imágenes"
+Details,Detalles
+"Recently Compared","Recientemente comparardo"
+"Add To Cart","Agregar al carrito"
+"Add To Compare","Agregar para comparar"
+"Learn more","Aprender más"
+"Recently Viewed","Visto recientemente"
