@@ -40,40 +40,40 @@ Cancel,Cancelar
 "Not shared with other products.","No compartido con otros productos."
 "Input Validation for Store Owner","Validación de entrada por el propietario de la tienda"
 "Add to Column Options","Agregar a opciones de columna"
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid."
-"Use in Filter Options","Use in Filter Options"
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid."
-"Store View","Store View"
-Website,Website
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Seleccione ""Si"" para agregar este atributo a la lista de opciones de columna en la grilla de productos."
+"Use in Filter Options","Usar en opciones de filtro"
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Seleccione ""Si"" para agregar este atributo a la lista de opciones de filtrado en la grilla de productos."
+"Store View","Vista de tienda"
+Website,Sitio web
 Global,Global
-Scope,Scope
+Scope,Alcance
 "Declare attribute value saving scope.","Declare attribute value saving scope."
-"Storefront Properties","Storefront Properties"
-"Use in Search","Use in Search"
-"Visible in Advanced Search","Visible in Advanced Search"
-"Comparable on Storefront","Comparable on Storefront"
-"Use for Promo Rule Conditions","Use for Promo Rule Conditions"
-"Enable WYSIWYG","Enable WYSIWYG"
-"Allow HTML Tags on Storefront","Allow HTML Tags on Storefront"
+"Storefront Properties","Propiedades del frente de la tienda"
+"Use in Search","Usar en búsqueda"
+"Visible in Advanced Search","Visible en la búsqueda avanzada"
+"Comparable on Storefront","Comparable en el frente de la tienda"
+"Use for Promo Rule Conditions","Usar para condiciones de regla de promoción"
+"Enable WYSIWYG","Habilitar WYSIWYG"
+"Allow HTML Tags on Storefront","Permitir Tags HTML en el frente de la tienda"
 "Visible on Catalog Pages on Storefront","Visible on Catalog Pages on Storefront"
-"Used in Product Listing","Used in Product Listing"
-"Depends on design theme.","Depends on design theme."
-"Used for Sorting in Product Listing","Used for Sorting in Product Listing"
-"Media Image","Media Image"
-Gallery,Gallery
-"System Properties","System Properties"
+"Used in Product Listing","Usado en listado de productos"
+"Depends on design theme.","Depende del diseño del tema."
+"Used for Sorting in Product Listing","Usado para ordenamiento en el listado de productos"
+"Media Image","Imagen de media"
+Gallery,Galería
+"System Properties","Propiedades de sistema"
 No,No
-Yes,Yes
-"Data Type for Saving in Database","Data Type for Saving in Database"
-Text,Text
+Yes,Si
+"Data Type for Saving in Database","Tipo de dato para guardar en la base de datos"
+Text,Texto
 Varchar,Varchar
-Static,Static
-Datetime,Datetime
+Static,Estático
+Datetime,FechaHora
 Decimal,Decimal
-Integer,Integer
-"Globally Editable","Globally Editable"
-"Attribute Information","Attribute Information"
-Properties,Properties
+Integer,Entero
+"Globally Editable","Editable globalmente"
+"Attribute Information","Información de atributo"
+Properties,Propiedades
 "Manage Labels","Manage Labels"
 Visible,Visible
 "Web Site","Web Site"
