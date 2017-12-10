@@ -74,61 +74,61 @@ Integer,Entero
 "Globally Editable","Editable globalmente"
 "Attribute Information","Información de atributo"
 Properties,Propiedades
-"Manage Labels","Manage Labels"
+"Manage Labels","Administrar etiquetas"
 Visible,Visible
-"Web Site","Web Site"
-Searchable,Searchable
+"Web Site","Sitio web"
+Searchable,Buscable
 Comparable,Comparable
-"Delete Selected Group","Delete Selected Group"
-"Add New","Add New"
-Back,Back
-Reset,Reset
-"You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?"
-"New Set Name","New Set Name"
-"Edit Attribute Set '%1'","Edit Attribute Set '%1'"
-Empty,Empty
-"Add Attribute","Add Attribute"
-"Add New Group","Add New Group"
-"Add Group","Add Group"
-"Edit Attribute Set Name","Edit Attribute Set Name"
-"For internal use","For internal use"
-"Based On","Based On"
-"Add New Attribute Set","Add New Attribute Set"
-"Add Attribute Set","Add Attribute Set"
-"Attribute Sets","Attribute Sets"
-"Close Window","Close Window"
-"New Product","New Product"
-"Save & Edit","Save & Edit"
-"Save & New","Save & New"
-"Save & Duplicate","Save & Duplicate"
-"Save & Close","Save & Close"
-Attributes,Attributes
-Change,Change
-"Advanced Inventory","Advanced Inventory"
-Websites,Websites
-"Products Information","Products Information"
-"Create Category","Create Category"
-"Category Name","Category Name"
-"Parent Category","Parent Category"
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>."
-"Price Alert Subscriptions","Price Alert Subscriptions"
-"Stock Alert Subscriptions","Stock Alert Subscriptions"
-"There are no customers for this alert.","There are no customers for this alert."
-"First Name","First Name"
-"Last Name","Last Name"
+"Delete Selected Group","Eliminar grupo seleccionado"
+"Add New","Agregar nuevo"
+Back,Atrás
+Reset,Resetear
+"You are about to delete all products in this attribute set. Are you sure you want to do that?","Estás por eliminar todos los productos en este conjunto de atributos. Está seguro que quiere hacer eso ?"
+"New Set Name","Nuevo nombre de conjunto"
+"Edit Attribute Set '%1'","Editar conjunto de atributos '%1'"
+Empty,Vacío
+"Add Attribute","Agragar atributo"
+"Add New Group","Agregar nuevo grupo"
+"Add Group","Agregar grupo"
+"Edit Attribute Set Name","Editar nombre de conjunto de atributos"
+"For internal use","Para uso interno"
+"Based On","Basado en"
+"Add New Attribute Set","Agregar nuevo conjunto de atributos"
+"Add Attribute Set","Agregar conjunto de atributos"
+"Attribute Sets","Conjuntos de atributos"
+"Close Window","Cerrar ventana"
+"New Product","Nuevo producto"
+"Save & Edit","Guardar & Editar"
+"Save & New","Guardar & Nuevo"
+"Save & Duplicate","Guardar & Duplicar"
+"Save & Close","Guardar & Cerrar"
+Attributes,Atributos
+Change,Cambiar
+"Advanced Inventory","Agregar Inventario"
+Websites,Sitios Web
+"Products Information","Información de productos"
+"Create Category","Crear Categoría"
+"Category Name","Nombre de Categoría"
+"Parent Category","Categoría Padre"
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","Si no hay categorías padre personalizadas, por favor utilizar la categoría padre por defecto. Puede reasignar la categoría en cualquier momento en <a href=""%1"" target=""_blank"">Productos > Categorías</a>."
+"Price Alert Subscriptions","Suscripciones de Alerta de Precios"
+"Stock Alert Subscriptions","Suscripciones de Alerta de Stock"
+"There are no customers for this alert.","No hay clientes para esta alerta."
+"First Name","Nombre"
+"Last Name","Apellido"
 Email,Email
-"Subscribe Date","Subscribe Date"
-"Last Notified","Last Notified"
-"Send Count","Send Count"
-"New Attribute","New Attribute"
-Type,Type
-"Attribute Set","Attribute Set"
-Status,Status
-Visibility,Visibility
-"Add New Option","Add New Option"
-"Import Options","Import Options"
-"Use Default","Use Default"
-Import,Import
+"Subscribe Date","Fecha de suscripción"
+"Last Notified","Última notificación"
+"Send Count","Conteo de envíos"
+"New Attribute","Nuevo atributo"
+Type,Tipo
+"Attribute Set","Conjunto de atributos"
+Status,Estado
+Visibility,Visibilidad
+"Add New Option","Agregar nueva opción"
+"Import Options","Opciones de importación"
+"Use Default","Usar por defecto"
+Import,Importar
 "Add New Row","Add New Row"
 "Delete Row","Delete Row"
 "Tier Pricing","Tier Pricing"
