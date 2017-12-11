@@ -12,7 +12,7 @@ sudo rm -R $RUTABASE/var/page_cache/*
 echo "--> upgrade, compile, deploy <-----------------------------------------------------|||||||||||||||||||||"
 sudo php $RUTABASE/bin/magento setup:upgrade
 sudo php $RUTABASE/bin/magento setup:di:compile
-sudo php $RUTABASE/bin/magento setup:static-content:deploy es_ES
+sudo php $RUTABASE/bin/magento setup:static-content:deploy -f es_ES
 
 echo "--> reindex, clean y flush cache <-------------------------------------------------|||||||||||||||||||||"
 sudo php $RUTABASE/bin/magento indexer:reindex
