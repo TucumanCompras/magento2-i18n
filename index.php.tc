@@ -71,11 +71,27 @@ switch($_SERVER['HTTP_HOST']) {
                      $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
 		break;
 
-		case 'mobel.tucumancompras.com.ar':
-		case 'www.mobel.tucumancompras.com.ar':
-		case 'mobel.com.ar':
-		case 'www.mobel.com.ar':
+		case 'muebleriamobel.tucumancompras.com.ar':
+		case 'www.muebleriamobel.tucumancompras.com.ar':
+		case 'muebleriamobel.com.ar':
+		case 'www.muebleriamobel.com.ar':
 		     $params[\Magento\Store\Model\StoreManager::PARAM_RUN_CODE] = 'mobel_site';
+                     $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
+		break;
+
+		case 'madonnas.tucumancompras.com.ar':
+		case 'www.madonnas.tucumancompras.com.ar':
+		case 'madonnas.com.ar':
+		case 'www.madonnas.com.ar':
+		     $params[\Magento\Store\Model\StoreManager::PARAM_RUN_CODE] = 'madonnas_site';
+                     $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
+		break;
+
+		case 'beautyperfumerias.tucumancompras.com.ar':
+		case 'www.beautyperfumerias.tucumancompras.com.ar':
+		case 'beautyperfumerias.com.ar':
+		case 'www.beautyperfumerias.com.ar':
+		     $params[\Magento\Store\Model\StoreManager::PARAM_RUN_CODE] = 'beauty_site';
                      $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';
 		break;
 
