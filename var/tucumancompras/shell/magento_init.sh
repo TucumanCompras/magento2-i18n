@@ -28,11 +28,14 @@ sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 3
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 4 web/unsecure/base_url http://agropac.tucumancompras.com.ar/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 4 web/secure/base_url https://agropac.tucumancompras.com.ar/
 
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 5 web/unsecure/base_url http://madonnas.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 5 web/secure/base_url https://madonnas.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 5 web/unsecure/base_url http://muebleriamobel.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 5 web/secure/base_url https://muebleriamobel.tucumancompras.com.ar/
 
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/unsecure/base_url http://beauty.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/secure/base_url https://beauty.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/unsecure/base_url http://madonnas.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/secure/base_url https://madonnas.tucumancompras.com.ar/
+
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 7 web/unsecure/base_url http://beautyperfumerias.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 7 web/secure/base_url https://beautyperfumerias.tucumancompras.com.ar/
 
 #Seteo de permisos de archivo
 chown -R bitnami:daemon $RUTABASE
