@@ -5,7 +5,7 @@
 
 # Actualizo las rutas de MySQL
 
-mysql -u$BDUSER -p$BDPASS -e 'delete from core_config_data where path like "%base%" and scope <> "default";'
+mysql -u$BDUSER -p$BDPASS $BDNAME -e 'delete from core_config_data where path like "%base%" and scope <> "default";'
 
 sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/unsecure/base_url http://dev.tucumancompras.com.ar/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/secure/base_url https://dev.tucumancompras.com.ar/
@@ -52,3 +52,5 @@ chmod 777 -R $RUTABASE/var/tucumancompras/shell/*.sh
 chmod 777 -R $RUTABASE/var/import
 chmod 777 -R $RUTABASE/var/cache
 chmod 777 $RUTABASE/magento2-theme-manager.sh
+
+echo "-=[Fin de magento_init.sh]=-"
