@@ -1,133 +1,133 @@
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page."
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page."
-"Cache Storage Management","Cache Storage Management"
-"Flush Magento Cache","Flush Magento Cache"
-"The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?"
-"Flush Cache Storage","Flush Cache Storage"
-Invalidated,Invalidated
-Orders,Orders
-Amounts,Amounts
-Bestsellers,Bestsellers
-"Most Viewed Products","Most Viewed Products"
-"New Customers","New Customers"
-Customers,Customers
-Customer,Customer
-Guest,Guest
+"Invalid Form Key. Please refresh the page.","Clave de formulario inválida. Por favor actualice la página."
+"You entered an invalid Secret Key. Please refresh the page.","Ingresaste una clave secreta inválida. Por favor actualice la página."
+"Cache Storage Management","Administración del almacenamiento caché"
+"Flush Magento Cache","Purgar caché de Magento"
+"The cache storage may contain additional data. Are you sure that you want to flush it?","El almacenamiento caché puede contener información adicional. Está seguro que desea purgarlo?"
+"Flush Cache Storage","Purgar Almacenamiento Caché"
+Invalidated,Invalidado
+Orders,Pedidos
+Amounts,Cantidades
+Bestsellers,Más Vendidos
+"Most Viewed Products","Productos Más Vistos"
+"New Customers","Nuevos Clientes"
+Customers,Clientes
+Customer,Cliente
+Guest,Invitado
 Items,Items
 Total,Total
-"Lifetime Sales","Lifetime Sales"
-"Average Order","Average Order"
-Average,Average
-Product,Product
-Price,Price
-Quantity,Quantity
-Views,Views
-Revenue,Revenue
-Tax,Tax
-Shipping,Shipping
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)"
+"Lifetime Sales","Ventas desde el inicio"
+"Average Order","Pedido promedio"
+Average,Promedio
+Product,Producto
+Price,Precio
+Quantity,Cantidad
+Views,Vistas
+Revenue,Ingresos
+Tax,Impuestos
+Shipping,Envío
+"Images (.gif, .jpg, .png)","Imágenes (.gif, .jpg, .png)"
 "Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)"
-"All Files","All Files"
-"Reset to Default","Reset to Default"
-"All Store Views","All Store Views"
-"What is this?","What is this?"
-"Save Account","Save Account"
-"My Account","My Account"
-"Account Information","Account Information"
-"User Name","User Name"
-"First Name","First Name"
-"Last Name","Last Name"
+"All Files","Todos los Archivos"
+"Reset to Default","Reestablecer Predeterminados"
+"All Store Views","Todas las Vistas de Tienda"
+"What is this?","Qué es Esto?"
+"Save Account","Guardar Cuenta"
+"My Account","Mi Cuenta"
+"Account Information","Información de la Cuenta"
+"User Name","Nombre de Usuario"
+"First Name","Nombre"
+"Last Name","Apellido"
 Email,Email
-"User Email","User Email"
-"New Password","New Password"
-"Password Confirmation","Password Confirmation"
-"Interface Locale","Interface Locale"
-"Current User Identity Verification","Current User Identity Verification"
-"Your Password","Your Password"
-"Save Cache Settings","Save Cache Settings"
-"Catalog Rewrites","Catalog Rewrites"
-Refresh,Refresh
-"Images Cache","Images Cache"
-Clear,Clear
-"Search Index","Search Index"
-Rebuild,Rebuild
-"Inventory Stock Status","Inventory Stock Status"
-"Rebuild Catalog Index","Rebuild Catalog Index"
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category"
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product"
-"Cache Control","Cache Control"
-"All Cache","All Cache"
-"No change","No change"
-Disable,Disable
-Enable,Enable
-"Add Design Change","Add Design Change"
-Back,Back
-Delete,Delete
-"Are you sure?","Are you sure?"
-Save,Save
-"Edit Design Change","Edit Design Change"
-"New Store Design Change","New Store Design Change"
-"General Settings","General Settings"
-Store,Store
-"-- Please Select --","-- Please Select --"
-"Custom Design","Custom Design"
-"Date From","Date From"
-"Date To","Date To"
-"Design Change","Design Change"
+"User Email","Email de Usuario"
+"New Password","Nuueva Contraseña"
+"Password Confirmation","Confirmación de contraseña"
+"Interface Locale","Lenguaje de interfaz"
+"Current User Identity Verification","Verificacion de identidad de usuario actual"
+"Your Password","Su Contraseña"
+"Save Cache Settings","Guardar Configuración de Caché"
+"Catalog Rewrites","Reescrituras de Catálogo"
+Refresh,Refrescar
+"Images Cache","Caché de Imágenes"
+Clear,Limpiar
+"Search Index","Indice de Búsqueda"
+Rebuild,Reconstruir
+"Inventory Stock Status","Estado del Stock de Inventario"
+"Rebuild Catalog Index","Reconstruir Indice de Catálogo"
+"Rebuild Flat Catalog Category","Reconstruir Catálogo Plano de Categoría"
+"Rebuild Flat Catalog Product","Reconstruir Catálogo Plano de Producto"
+"Cache Control","Control de caché"
+"All Cache","Todo el Caché"
+"No change","Sin cambios"
+Disable,Deshabilitar
+Enable,Habilitar
+"Add Design Change","Agregar Cambio de Diseño"
+Back,Atrás
+Delete,Eliminar
+"Are you sure?","Está seguro?"
+Save,Guardar
+"Edit Design Change","Editar Cambio de Diseño"
+"New Store Design Change","Cambio de Diseño de Nueva Tienda"
+"General Settings","Configuración General"
+Store,Tienda
+"-- Please Select --","-- Por Favor Seleccione --"
+"Custom Design","Diseño Personalizado"
+"Date From","Fecha Desde"
+"Date To","Fecha Hasta"
+"Design Change","Cambio de Diseño"
 General,General
-Cancel,Cancel
-"Delete %1 '%2'","Delete %1 '%2'"
-"Delete %1","Delete %1"
-"Block Information","Block Information"
-"Backup Options","Backup Options"
-"Create DB Backup","Create DB Backup"
-Yes,Yes
+Cancel,Cancelar
+"Delete %1 '%2'","Eliminar %1 '%2'"
+"Delete %1","Eliminar %1"
+"Block Information","Información del Bloque"
+"Backup Options","Opciones de Backup"
+"Create DB Backup","Crear Backup de BD"
+Yes,Si
 No,No
-"Delete Store","Delete Store"
-"Delete Web Site","Delete Web Site"
-"Save Web Site","Save Web Site"
-"Save Store","Save Store"
-"Save Store View","Save Store View"
-"Delete Store View","Delete Store View"
-"Edit Web Site","Edit Web Site"
-"New Web Site","New Web Site"
-"Edit Store","Edit Store"
-"New Store","New Store"
-"Edit Store View","Edit Store View"
-"New Store View","New Store View"
-"Store Information","Store Information"
-"Web Site","Web Site"
-Name,Name
-Code,Code
-"Root Category","Root Category"
-"Default Store View","Default Store View"
-"Store View Information","Store View Information"
-Status,Status
-Disabled,Disabled
-Enabled,Enabled
-"Sort Order","Sort Order"
-"Web Site Information","Web Site Information"
-"Default Store","Default Store"
-"Set as Default","Set as Default"
-Stores,Stores
-"Create Website","Create Website"
-"Create Store","Create Store"
-"Create Store View","Create Store View"
-Home,Home
-Reset,Reset
-"Are you sure you want to do this?","Are you sure you want to do this?"
-"Add New Image","Add New Image"
-"Export block for grid %1 is not defined","Export block for grid %1 is not defined"
-"Reset Filter","Reset Filter"
-Search,Search
-Any,Any
-"All Countries","All Countries"
-From,From
-To,To
-"Date selector","Date selector"
-"[ deleted ]","[ deleted ]"
-"Select All","Select All"
-" [deleted]"," [deleted]"
+"Delete Store","Eliminar Tienda"
+"Delete Web Site","Eliminar Sitio Web"
+"Save Web Site","Guardar Sitio Web"
+"Save Store","Guardar Tienda"
+"Save Store View","Guardar Vista de Tienda"
+"Delete Store View","Eliminar Vista de Tienda"
+"Edit Web Site","Editar Sitio Web"
+"New Web Site","Nuevo Sitio Web"
+"Edit Store","Editar Tienda"
+"New Store","Nueva Tienda"
+"Edit Store View","Editar Vista de Tienda"
+"New Store View","Nueva CVista de Tienda"
+"Store Information","Información de la Tienda"
+"Web Site","Sitio Web"
+Name,Nombre
+Code,Código
+"Root Category","Categoría Raíz"
+"Default Store View","Vista de Tienda por Defecto"
+"Store View Information","Información de la Vista de Tienda"
+Status,Estado
+Disabled,Deshabilitada
+Enabled,Habilitada
+"Sort Order","Orden de Clasificación"
+"Web Site Information","Información del Sitio Web"
+"Default Store","Tienda por Defecto"
+"Set as Default","Setear por Defecto"
+Stores,Tiendas
+"Create Website","Crear Sitio Web"
+"Create Store","Crear Tienda"
+"Create Store View","Crear Vista de Tienda"
+Home,Inicio
+Reset,Resetear
+"Are you sure you want to do this?","Está seguro que desea hacer esto?"
+"Add New Image","Agregar Nueva Imagen"
+"Export block for grid %1 is not defined","Bloque de Exportación para la grilla %1 no está definido"
+"Reset Filter","Resetear Filtro"
+Search,Buscar
+Any,Cualquiera
+"All Countries","Todos los Países"
+From,Desde
+To,Hasta
+"Date selector","Selector de Fecha"
+"[ deleted ]","[ eliminado ]"
+"Select All","Seleccionar Todos"
+" [deleted]"," [eliminado]"
 "We couldn't find any records.","We couldn't find any records."
 "Add New","Add New"
 "Invalid export type supplied for grid export block","Invalid export type supplied for grid export block"
