@@ -1,80 +1,80 @@
-"Delete Rule","Delete Rule"
-"Are you sure you want to do this?","Are you sure you want to do this?"
-Reset,Reset
-"Save and Apply","Save and Apply"
-"Save and Continue Edit","Save and Continue Edit"
-Save,Save
-"Catalog Price Rule","Catalog Price Rule"
-"Add New Rule","Add New Rule"
-"Apply Rules","Apply Rules"
-Conditions,Conditions
-"Conditions (don't add conditions if rule is applied to all products)","Conditions (don't add conditions if rule is applied to all products)"
+"Delete Rule","Eliminar regla"
+"Are you sure you want to do this?","Está seguro que desea hacer esto?"
+Reset,Resetear
+"Save and Apply","Guardar y Aplicar"
+"Save and Continue Edit","Guardar y Continuar Editando"
+Save,Guardar
+"Catalog Price Rule","Regla de Precios de Catálogo"
+"Add New Rule","Agregar Nueva Regla"
+"Apply Rules","Aplicar Reglas"
+Conditions,Condiciones
+"Conditions (don't add conditions if rule is applied to all products)","Condiciones (no agregue condiciones si la regla se aplica a todos los productos)"
 ID,ID
-Type,Type
-"Attribute Set","Attribute Set"
+Type,Tipo
+"Attribute Set","Conjunto de Atributos"
 SKU,SKU
-Product,Product
-Promotions,Promotions
-"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog."
-"We can't apply the rules.","We can't apply the rules."
-"You deleted the rule.","You deleted the rule."
-"We can't delete this rule right now. Please review the log and try again.","We can't delete this rule right now. Please review the log and try again."
-"We can't find a rule to delete.","We can't find a rule to delete."
-"This rule no longer exists.","This rule no longer exists."
-"New Catalog Price Rule","New Catalog Price Rule"
-"Edit Rule","Edit Rule"
-"New Rule","New Rule"
-Catalog,Catalog
-"You saved the rule.","You saved the rule."
-"Something went wrong while saving the rule data. Please review the error log.","Something went wrong while saving the rule data. Please review the error log."
+Product,Producto
+Promotions,Promociones
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Encontramos reglas actualizadas que no fueron aplicadas. Por favor haga click en ""Aplicar Reglas"" para actualizar su catálogo."
+"We can't apply the rules.","No se pueden aplicar las reglas."
+"You deleted the rule.","Se eliminó la regla."
+"We can't delete this rule right now. Please review the log and try again.","No podemos eliminar esta regla ahora. Por favor revise el registro e inténtelo de nuevo."
+"We can't find a rule to delete.","No podemos encontrar una regla para eliminar."
+"This rule no longer exists.","Esta regla no existe más."
+"New Catalog Price Rule","Nueva Regla de Precios de Catálogo"
+"Edit Rule","Editar Regla"
+"New Rule","Nueva Regla"
+Catalog,Catálogo
+"You saved the rule.","Se ha guardado la regla."
+"Something went wrong while saving the rule data. Please review the error log.","Algo anduvo mal mientras se guardaban los datos de la regla. Por favor revise el registro de error."
 Promo,Promo
-"Unable to save rule %1","Unable to save rule %1"
-"Rule with specified ID ""%1"" not found.","Rule with specified ID ""%1"" not found."
-"Unable to remove rule %1","Unable to remove rule %1"
-"Could not rebuild index for empty products array","Could not rebuild index for empty products array"
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product."
-"Catalog rule indexing failed. See details in exception log.","Catalog rule indexing failed. See details in exception log."
-"Percentage discount should be between 0 and 100.","Percentage discount should be between 0 and 100."
-"Discount value should be 0 or greater.","Discount value should be 0 or greater."
-"Unknown action.","Unknown action."
-"Update the Product","Update the Product"
-"Rule price","Rule price"
-"To Fixed Value","To Fixed Value"
-"To Percentage","To Percentage"
-"By Fixed value","By Fixed value"
-"By Percentage","By Percentage"
-"Update product's %1 %2: %3","Update product's %1 %2: %3"
-"Apply as percentage of original","Apply as percentage of original"
-"Apply as fixed amount","Apply as fixed amount"
-"Adjust final price to this percentage","Adjust final price to this percentage"
-"Adjust final price to discount value","Adjust final price to discount value"
-"Conditions Combination","Conditions Combination"
-"Product Attribute","Product Attribute"
-"Updated rules applied.","Updated rules applied."
-"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute."
-"Catalog Rule Product","Catalog Rule Product"
-"Indexed rule/product association","Indexed rule/product association"
-"Catalog Product Rule","Catalog Product Rule"
-"Indexed product/rule association","Indexed product/rule association"
-Rule,Rule
-Start,Start
-End,End
-Status,Status
-Active,Active
-Inactive,Inactive
-"Web Site","Web Site"
-Back,Back
-"Rule Information","Rule Information"
-"Rule Name","Rule Name"
-Description,Description
-Websites,Websites
-"Customer Groups","Customer Groups"
-From,From
-To,To
-Priority,Priority
-Actions,Actions
-Apply,Apply
-"Discount Amount","Discount Amount"
-"Discard subsequent rules","Discard subsequent rules"
-Yes,Yes
+"Unable to save rule %1","No se puede guardar la regla %1"
+"Rule with specified ID ""%1"" not found.","La Regla con el ID ""%1"" especificado no encontrada."
+"Unable to remove rule %1","No se puede eliminar la regla %1"
+"Could not rebuild index for empty products array","No se puede reconstruir el índice para un arreglo de productos vacío"
+"We can't rebuild the index for an undefined product.","No podemos reconstruir en índice para un producto no identificado."
+"Catalog rule indexing failed. See details in exception log.","Falló la indexación del la regla de Catálogo. Ver detalles en el registro de excepciones."
+"Percentage discount should be between 0 and 100.","El Porcentaje de descuento debe ser entre 0 y 100."
+"Discount value should be 0 or greater.","El valor del Descuuento debe ser 0 o Superior."
+"Unknown action.","Acción desconocida."
+"Update the Product","Actualizar el Producto"
+"Rule price","Precio de la regla"
+"To Fixed Value","A Valor Fijo"
+"To Percentage","A Porcentaje"
+"By Fixed value","Por Valor Fijo"
+"By Percentage","Por Porcentaje"
+"Update product's %1 %2: %3","Actualizar productos %1 %2: %3"
+"Apply as percentage of original","Aplicar como Porcentaje del original"
+"Apply as fixed amount","Aplocar como cantidad Fija"
+"Adjust final price to this percentage","Ajustar Precio Final a este porcentaje"
+"Adjust final price to discount value","Ajustar Precio Final al valor de descuento"
+"Conditions Combination","Combinación de Condiciones"
+"Product Attribute","Atributo de producto"
+"Updated rules applied.","Se aplicaron llas reglas actualizadas."
+"You disabled %1 Catalog Price Rules based on ""%2"" attribute.","Has deshabilitado %1 Reglas de precio de Catálogo basadas en el atributo ""%2"" "
+"Catalog Rule Product","Producto de la Regla de Catálogo"
+"Indexed rule/product association","Regla Indexada/Asociación de Producto"
+"Catalog Product Rule","Regla de Producto de Catálogo"
+"Indexed product/rule association","Producto Indexado/Ssociación de Regla"
+Rule,Regla
+Start,Iniciar
+End,Finalizar
+Status,Estado
+Active,Activa
+Inactive,Inactiva
+"Web Site","Sitio Web"
+Back,Atrás
+"Rule Information","Información de la Regla"
+"Rule Name","Nombre de la Regla"
+Description,Descripción
+Websites,Sitios Web
+"Customer Groups","Grupos de Clientes"
+From,De
+To,Para
+Priority,Prioridad
+Actions,Acciones
+Apply,Aplicar
+"Discount Amount","Importe de Descuento"
+"Discard subsequent rules","Descartar reglas subsecuentes"
+Yes,Si
 No,No
