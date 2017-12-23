@@ -1,39 +1,39 @@
-Home,Home
-"Go to Home Page","Go to Home Page"
-"Catalog Advanced Search","Catalog Advanced Search"
-All,All
-Yes,Yes
+Home,Inicio
+"Go to Home Page","Ir a la Página Principal"
+"Catalog Advanced Search","Búsqueda de Catálogo Avanzado"
+All,Todo
+Yes,Si
 No,No
-Results,Results
-"Advanced Search Results","Advanced Search Results"
-Grid,Grid
-List,List
-"Search Weight","Search Weight"
+Results,Resultados
+"Advanced Search Results","Resultados de la Búsqueda Avanzada"
+Grid,Grilla
+List,Lista
+"Search Weight","Peso de Búsqueda"
 Relevance,Relevance
-"Search results for: '%1'","Search results for: '%1'"
-"Minimum Search query length is %1","Minimum Search query length is %1"
-"Please specify at least one search term.","Please specify at least one search term."
-"%1 and greater","%1 and greater"
-"up to %1","up to %1"
-". "" which is inconsistent with state of scope resolver""",". "" which is inconsistent with state of scope resolver"""
-Category,Category
-"%1 and above","%1 and above"
+"Search results for: '%1'","Resultados de Búsqueda para: '%1'"
+"Minimum Search query length is %1","La longitud mínima de la consulta de búsqueda es %1"
+"Please specify at least one search term.","Por favor especifique al menos un término de búsqueda."
+"%1 and greater","%1 y superior"
+"up to %1","hasta %1"
+". "" which is inconsistent with state of scope resolver""",". "" el cual es inconsistente con el estado del resolutor de alcance"""
+Category,Categoría
+"%1 and above","%1 y superior"
 "%1 - %2","%1 - %2"
-"Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log."
-"Bucket does not exist","Bucket does not exist"
-Product,Product
-"Search Settings","Search Settings"
-Search,Search
-"Advanced Search","Advanced Search"
-"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> were found using the following search criteria"
-"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria"
-"We can't find any items matching these search criteria.","We can't find any items matching these search criteria."
-"Modify your search.","Modify your search."
-name,name
-"Don't see what you're looking for?","Don't see what you're looking for?"
-"Your search returned no results.","Your search returned no results."
-"Popular Search Terms","Popular Search Terms"
-"Catalog Search","Catalog Search"
-"Minimal Query Length","Minimal Query Length"
-"Maximum Query Length","Maximum Query Length"
-"Rebuild Catalog product fulltext search index","Rebuild Catalog product fulltext search index"
+"Sorry, something went wrong. You can find out more in the error log.","Lo lamento, algo anduvo mal. Puede averiguar más en el registro de error."
+"Bucket does not exist","El cubo no existe"
+Product,Producto
+"Search Settings","Opciones de Búsqueda"
+Search,Búsqueda
+"Advanced Search","Búsqueda Avanzada"
+"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> fué encontrado utilizando el siguiente criterio de búsqueda"
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> fueron encontrados utilizando el siguiente criterio de búsqueda"
+"We can't find any items matching these search criteria.","No se pudo encontrar ningún item que concuerde con el critterio de búsqueda."
+"Modify your search.","Modifique su búsqueda."
+name,nombre
+"Don't see what you're looking for?","No encuentra lo que está buscando?"
+"Your search returned no results.","Su búsqueda no devolvió resultados."
+"Popular Search Terms","Términos de Búsqueda populares"
+"Catalog Search","Búsqueda de Catálogo"
+"Minimal Query Length","Longitud de consulta mínima"
+"Maximum Query Length","Longitud de consulta máxima"
+"Rebuild Catalog product fulltext search index","Reconstruir índice de búsqueda de texto completo del producto del catálogo"
