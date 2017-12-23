@@ -106,13 +106,13 @@ username,nombre de usuario
 Custom,Personalizado
 All,Todos
 Resources,Recursos
-"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
-"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
-"Password Reset Confirmation for %name","Password Reset Confirmation for %name"
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Advertencia!\r\nEsta acción eliminará este Usuario de un Rol ya asignado\r\nEstá seguro?"
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Advertencia!\r\nEsta acción eliminará aquellso Usuarios con roles ya asignados\r\nEstá seguro?"
+"Password Reset Confirmation for %name","Confirmación de Reseteo de contraseña para %name"
 "%name,","%name,"
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account."
-"If you requested this change, reset your password here:","If you requested this change, reset your password here:"
-"If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same."
+"There was recently a request to change the password for your account.","Recientemente hubo una solicitud para cambiar la contraseña de su cuenta."
+"If you requested this change, reset your password here:","Si ha solicitado este cambio, resetee su contraseña aquí:"
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si Ud no ha hecho esta solicitud, puede ignorar este email y su contraseña continuará siendo la misma."
 "Thank you,","Gracias,"
 "New %changes for %user_name","Nuevo %changes para %user_name"
 "Hello,","Hola,"
@@ -132,7 +132,7 @@ Resources,Recursos
 "Password Change","Cambio de contraseña"
 Unlock,Desbloquear
 ID,ID
-Username,Username
-"Last login","Last login"
-Failures,Failures
-Unlocked,Unlocked
+Username,Nombre de Usuario
+"Last login","Ultimo ingreso"
+Failures,Fallos
+Unlocked,Desbloqueado
