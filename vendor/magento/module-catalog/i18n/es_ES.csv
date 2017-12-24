@@ -285,54 +285,54 @@ Discount,Descuento
 "12h AM/PM","12h AM/PM"
 24h,24h
 Stretch,Estirar
-Tile,Tile
-Top/Left,Top/Left
-Top/Right,Top/Right
-Bottom/Left,Bottom/Left
-Bottom/Right,Bottom/Right
-Center,Center
-"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extends \Magento\Framework\Model\AbstractModel"
-"Something went wrong while saving the file(s).","Something went wrong while saving the file(s)."
-"File can not be saved to the destination folder.","File can not be saved to the destination folder."
-"Unknown EAV indexer type ""%1"".","Unknown EAV indexer type ""%1""."
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product."
-"Bad value was supplied.","Bad value was supplied."
-"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module"
-"Unsupported product type ""%1"".","Unsupported product type ""%1""."
-"Please correct the category.","Please correct the category."
-"Must be category model instance or its id.","Must be category model instance or its id."
-"The attribute model is not defined.","The attribute model is not defined."
-Category,Category
+Tile,Mosaico
+Top/Left,Arriba/Izquierda
+Top/Right,Arriba/Derecha
+Bottom/Left,Abajo/Izquierda
+Bottom/Right,Abajo/Derecha
+Center,Centrar
+"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 no extiende \Magento\Framework\Model\AbstractModel"
+"Something went wrong while saving the file(s).","Algo anduvo mal mientras se guardaba el(los) archivo(s)."
+"File can not be saved to the destination folder.","El archivo no puede guardarse en la carpeta de destino."
+"Unknown EAV indexer type ""%1"".","Tipo de indexador EAV desconocido ""%1""."
+"We can't rebuild the index for an undefined product.","No se puede reconstruir el índice para un producto indefinido."
+"Bad value was supplied.","Se proporcionó un valor incorrecto."
+"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","El módulo de Catálogo Plano tiene un límite de %2$d atributos para filtrar u ordenar. Actualmente hay %1$d de ellos. Por favoor reduzca el número de atributos filtrables/ordenables para poder utilizar este módulo"
+"Unsupported product type ""%1"".","Tipo de producto no soportado ""%1""."
+"Please correct the category.","Por favor corrija la categoría."
+"Must be category model instance or its id.","Debe ser una instancia de modelo de categoríia o su id."
+"The attribute model is not defined.","El modelo de atributo no está definido."
+Category,Categoría
 "%1 - %2","%1 - %2"
-"%1 was not found in algorithms","%1 was not found in algorithms"
-"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface"
-"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter"
-"The filter must be an object. Please set the correct filter.","The filter must be an object. Please set the correct filter."
-"Clear Price","Clear Price"
-"%1 and above","%1 and above"
-"The filters must be an array.","The filters must be an array."
-"Product was not registered","Product was not registered"
-"Store was not registered","Store was not registered"
-"Group price must be a number greater than 0.","Group price must be a number greater than 0."
-"Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallery converter should be an instance of EntryConverterInterface."
-"There is no MediaGalleryEntryConverter for given type","There is no MediaGalleryEntryConverter for given type"
-"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field."
-"The value of attribute ""%1"" must be set","The value of attribute ""%1"" must be set"
-"SKU length should be %1 characters maximum.","SKU length should be %1 characters maximum."
-"Please enter a valid number in this field.","Please enter a valid number in this field."
-"We found a duplicate website, tier price, customer group and quantity.","We found a duplicate website, tier price, customer group and quantity."
-"Percentage value must be a number between 0 and 100.","Percentage value must be a number between 0 and 100."
-"Invalid option id %1","Invalid option id %1"
-"Can not create attribute set based on non product attribute set.","Can not create attribute set based on non product attribute set."
-"Can not create attribute set based on not existing attribute set","Can not create attribute set based on not existing attribute set"
-"Provided Attribute set non product Attribute set.","Provided Attribute set non product Attribute set."
-"Use config","Use config"
-Enabled,Enabled
-Disabled,Disabled
-"Attribute Set already exists.","Attribute Set already exists."
-"We couldn't copy file %1. Please delete media with non-existing images and try again.","We couldn't copy file %1. Please delete media with non-existing images and try again."
-"The image content is not valid.","The image content is not valid."
-"Cannot save product.","Cannot save product."
+"%1 was not found in algorithms","%1 no se encontró en los algoritmos"
+"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 no extiende \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface"
+"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 no extiende \Magento\Catalog\Model\Layer\Filter\AbstractFilter"
+"The filter must be an object. Please set the correct filter.","El filtro debe ser un objeto. Por favor setee el filtro correcto."
+"Clear Price","Limpiar precio"
+"%1 and above","%1 y superior"
+"The filters must be an array.","Los filtros deben ser un arreglo."
+"Product was not registered","El Producto no estaba registrado"
+"Store was not registered","La Tienda no estaba registrada"
+"Group price must be a number greater than 0.","El precio de Grupo debe ser un numero mayor que 0."
+"Media Gallery converter should be an instance of EntryConverterInterface.","El convertidor de la Galería de Medios debe ser una instancia de EntryConverterInterface."
+"There is no MediaGalleryEntryConverter for given type","No hay un MediaGalleryEntryConverterpara el tipo determinado"
+"Please enter a number 0 or greater in this field.","Por favor ingrese un número 0 o superior en este campo."
+"The value of attribute ""%1"" must be set","El valor del atributo ""%1"" debe estar definido"
+"SKU length should be %1 characters maximum.","La longitud del SKU debe ser como máximo de %1 caracteres."
+"Please enter a valid number in this field.","Por favoor inggrrese un número válido en este campo."
+"We found a duplicate website, tier price, customer group and quantity.","Encontramos un Sitio Web duplicado, franja de precios, grupo de clientes y cantidad."
+"Percentage value must be a number between 0 and 100.","El valor de Porcentaje debe ser un número entre 0 y 100."
+"Invalid option id %1","Id de Oción inválida %1"
+"Can not create attribute set based on non product attribute set.","No se puede crear un Conjunto de Atributos basado en un conjunto de Atributos que no es de Producto."
+"Can not create attribute set based on not existing attribute set","No se puede crear un conjunto de Atributos basado en un conjunto de Atributos inexistente"
+"Provided Attribute set non product Attribute set.","El Conjunto de Atributos provisto no es un conjunto de atributos de Producto."
+"Use config","Usar configuración"
+Enabled,Habilitado
+Disabled,Deshabilitado
+"Attribute Set already exists.","El Conjunto de Atributos ya existe."
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","No se pudo copiar el Archivo %1. Por favor elimine medios con imágenes no existentes e intente de nuevo."
+"The image content is not valid.","El contenido de la imagen no es válido."
+"Cannot save product.","No se puede guardar el Producto."
 "Failed to save new media gallery entry.","Failed to save new media gallery entry."
 "There is no image with provided ID.","There is no image with provided ID."
 "Such product doesn't exist","Such product doesn't exist"
