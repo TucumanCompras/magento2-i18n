@@ -1,5 +1,5 @@
-"Sign Out","Sign Out"
-"Sign In","Sign In"
+"Sign Out","Cerrar Sesión"
+"Sign In","Ingresar"
 "You are subscribed to our newsletter.","You are subscribed to our newsletter."
 "You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter."
 "You have not set a default shipping address.","You have not set a default shipping address."
@@ -7,7 +7,7 @@
 "Address Book","Address Book"
 "Edit Address","Edit Address"
 "Add New Address","Add New Address"
-region,region
+region,región
 "Create Order","Crear Pedido"
 "Save Customer","Guardar Cliente"
 "Delete Customer","Eliminar Cliente"
