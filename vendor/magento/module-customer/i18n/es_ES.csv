@@ -32,68 +32,68 @@ Delete,Eliminar
 Newsletter,Boletín
 "Newsletter Information","Información del Boletín"
 "Subscribed to Newsletter","Suscripto al Boletín"
-"Last Date Subscribed","Last Date Subscribed"
-"Last Date Unsubscribed","Last Date Unsubscribed"
-"No Newsletter Found","No Newsletter Found"
-"Start date","Start date"
-"End Date","End Date"
-"Receive Date","Receive Date"
-Subject,Subject
-Status,Status
-Sent,Sent
-Cancel,Cancel
-"Not Sent","Not Sent"
-Sending,Sending
-Paused,Paused
-View,View
-Unknown,Unknown
-Order,Order
-Purchased,Purchased
-"Bill-to Name","Bill-to Name"
-"Ship-to Name","Ship-to Name"
-"Order Total","Order Total"
-"Purchase Point","Purchase Point"
-"Customer View","Customer View"
-"There are no items in customer's shopping cart.","There are no items in customer's shopping cart."
-Qty,Qty
-Confirmed,Confirmed
-"Confirmation Required","Confirmation Required"
-"Confirmation Not Required","Confirmation Not Required"
-Indeterminate,Indeterminate
-"The customer does not have default billing address.","The customer does not have default billing address."
-Offline,Offline
-Online,Online
-Never,Never
-Unlocked,Unlocked
-Locked,Locked
-"Deleted Stores","Deleted Stores"
-"Add Locale","Add Locale"
-"Add Date","Add Date"
-"Days in Wish List","Days in Wish List"
-Unlock,Unlock
+"Last Date Subscribed","Última fecha de Suscripción"
+"Last Date Unsubscribed","Última fecha de Desuscripción"
+"No Newsletter Found","No se encontró el boletín"
+"Start date","Fecha Inicio"
+"End Date","Fecha Fin"
+"Receive Date","Fecha Recepción"
+Subject,Asunto
+Status,Estado
+Sent,Enviado
+Cancel,Cancelar
+"Not Sent","No Enviado"
+Sending,Enviando
+Paused,Pausado
+View,Ver
+Unknown,Desconocido
+Order,Fedido
+Purchased,Comprado
+"Bill-to Name","Nombre de Facturación"
+"Ship-to Name","Nombre de Envío"
+"Order Total","Total del Pedido"
+"Purchase Point","Punto de Compra"
+"Customer View","Vista de Cliente"
+"There are no items in customer's shopping cart.","No hay items en el carrito de compras del cliente."
+Qty,Cant
+Confirmed,Confirmado
+"Confirmation Required","Confirmación Requerida"
+"Confirmation Not Required","Confirmación No Requerida"
+Indeterminate,Indeterminado
+"The customer does not have default billing address.","El Cliente no tiene una dirección de facturación por defecto."
+Offline,Fuera de Línea
+Online,En Línea
+Never,Nunca
+Unlocked,Desbloqueado
+Locked,Bloqueado
+"Deleted Stores","Eliminar Tiendas"
+"Add Locale","Agregar Localización"
+"Add Date","Agregar Fecha"
+"Days in Wish List","Días en Lista de Deseos"
+Unlock,Desbloquear
 No,No
-Yes,Yes
-"Delete File","Delete File"
-Download,Download
-"Delete Image","Delete Image"
-"View Full Size","View Full Size"
-"All countries","All countries"
-"Customer Groups","Customer Groups"
-"Add New Customer Group","Add New Customer Group"
-"Save Customer Group","Save Customer Group"
-"Delete Customer Group","Delete Customer Group"
-"New Customer Group","New Customer Group"
-"Edit Customer Group ""%1""","Edit Customer Group ""%1"""
-"Group Information","Group Information"
-"Group Name","Group Name"
-"Maximum length must be less then %1 characters.","Maximum length must be less then %1 characters."
-"Tax Class","Tax Class"
-"The customer is now assigned to Customer Group %s.","The customer is now assigned to Customer Group %s."
-"Would you like to change the Customer Group for this order?","Would you like to change the Customer Group for this order?"
-"The VAT ID is valid.","The VAT ID is valid."
-"The VAT ID entered (%s) is not a valid VAT ID.","The VAT ID entered (%s) is not a valid VAT ID."
-"The VAT ID is valid. The current Customer Group will be used.","The VAT ID is valid. The current Customer Group will be used."
-"The VAT ID is valid but no Customer Group is assigned for it.","The VAT ID is valid but no Customer Group is assigned for it."
+Yes,Si
+"Delete File","Eliminar Archivo"
+Download,Descargar
+"Delete Image","Eliminar Imagen"
+"View Full Size","Ver tamaño completo"
+"All countries","Todos los Países"
+"Customer Groups","Grupos de Cliente"
+"Add New Customer Group","Agregar nuevo Grupo de Cliente"
+"Save Customer Group","Guardar Grupo de Cliente"
+"Delete Customer Group","Eliminar Grupo de Cliente"
+"New Customer Group","Nuevo Grupo de cliente"
+"Edit Customer Group ""%1""","Editar Grupo de Cliente ""%1"""
+"Group Information","Información de Grupo"
+"Group Name","Nombre del Grupo"
+"Maximum length must be less then %1 characters.","La longitud Máxima debe ser de menos de %1 caracteres."
+"Tax Class","Clase de Impuesto"
+"The customer is now assigned to Customer Group %s.","El Cliente ha sido asignado al Grupo de Clientes %s."
+"Would you like to change the Customer Group for this order?","Le gustaría cambiar el Grupo de Cliente por este pedido?"
+"The VAT ID is valid.","El ID de VAT es válido."
+"The VAT ID entered (%s) is not a valid VAT ID.","El ID de VAT ingresado (%s) no es un ID de VAT válido."
+"The VAT ID is valid. The current Customer Group will be used.","El ID de VAT es válido. El Grupo de Cliente actual serña utilizado."
+"The VAT ID is valid but no Customer Group is assigned for it.","El ID de VAT es válido pero no se le ha asignado ningún Grupo de Clientes."
 "Based on the VAT ID, the customer belongs to the Customer Group %s.","Based on the VAT ID, the customer belongs to the Customer Group %s."
 "Something went wrong while validating the VAT ID.","Something went wrong while validating the VAT ID."
 "The customer would belong to Customer Group %s.","The customer would belong to Customer Group %s."
