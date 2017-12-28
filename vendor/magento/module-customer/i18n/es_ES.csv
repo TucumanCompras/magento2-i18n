@@ -259,32 +259,32 @@ label,etiqueta
 Male,Masculino
 Female,Femenino
 "Not Specified","No Especificado"
-"Thank you for registering with","Thank you for registering with"
-"enter your billing address for proper VAT calculation","enter your billing address for proper VAT calculation"
-"enter your shipping address for proper VAT calculation","enter your shipping address for proper VAT calculation"
-"Please enter new password.","Please enter new password."
-message,message
+"Thank you for registering with","Gracias por registrarte con"
+"enter your billing address for proper VAT calculation","ingrese su dirección de facturación para el cálculo del IVA adecuado"
+"enter your shipping address for proper VAT calculation","ingrese su dirección de envío para el cálculo adecuado del IVA"
+"Please enter new password.","Por Favor ingrese nueva contraseña."
+message,mensaje
 NoSuchEntityException,NoSuchEntityException
-Exception,Exception
+Exception,Excepción
 InputException.,InputException.
 InputException,InputException
-"Exception message","Exception message"
-"Validator Exception","Validator Exception"
-"Localized Exception","Localized Exception"
-"some error","some error"
+"Exception message","Mensaje de excepción"
+"Validator Exception","Excepción del validador"
+"Localized Exception","Excepción localizada"
+"some error","algún error"
 frontend_label,frontend_label
-"NOT LOGGED IN","NOT LOGGED IN"
-"Please enter the state/province.","Please enter the state/province."
-"region is a required field.","region is a required field."
-"regionId is a required field.","regionId is a required field."
-Label,Label
+"NOT LOGGED IN","SESIÓN NO INICIADA"
+"Please enter the state/province.","Por favor ingrese el Estado/Provincia."
+"region is a required field.","region es un campo requerido."
+"regionId is a required field.","regionId es un campo requerido."
+Label,Etiqueta
 Select...,Seleccionar...
-Edit,Edit
-Visitor,Visitor
-Customer,Customer
-"No item specified.","No item specified."
-"Are you sure you want to remove this item?","Are you sure you want to remove this item?"
-"Personal Information","Personal Information"
+Edit,Editar
+Visitor,Visitante
+Customer,Cliente
+"No item specified.","Ningún item especificado."
+"Are you sure you want to remove this item?","Está seguro que desea eliminar este item?"
+"Personal Information","Información Personal"
 "Last Logged In:","Last Logged In:"
 "Last Logged In (%1):","Last Logged In (%1):"
 "Account Lock:","Account Lock:"
