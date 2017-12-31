@@ -426,46 +426,46 @@ Search,Búusqueda
 "We cannot determine the field name.","No se puede determinar el nombre del campo."
 "Attribute '%1' is locked. %2","El Atributo '%1' está bloqueado. %2"
 "Do not change the scope. %1","No cambiar el Alcance. %1"
-"Processor %1 doesn't implement BaseSelectProcessorInterface","Processor %1 doesn't implement BaseSelectProcessorInterface"
-"A product type is not defined for the indexer.","A product type is not defined for the indexer."
-"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice"
-"Product with SKU %1 is not linked to product with SKU %2","Product with SKU %1 is not linked to product with SKU %2"
-"Multiple Select","Multiple Select"
-Dropdown,Dropdown
-"%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template"
-"As low as","As low as"
-test,test
-"Could not get extension attributes","Could not get extension attributes"
-message,message
-"Some exception","Some exception"
+"Processor %1 doesn't implement BaseSelectProcessorInterface","El procesador %1 no implementa BaseSelectProcessorInterface"
+"A product type is not defined for the indexer.","Un tipo de producto no está definido para el indexador."
+"%1 doesn't extend \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice","%1 no etiende \Magento\Catalog\Model\ResourceModel\Product\Indexer\Price\DefaultPrice"
+"Product with SKU %1 is not linked to product with SKU %2","El Producto con el SKU %1 no está vinculado al producto con SKU %2"
+"Multiple Select","Selección múltiple"
+Dropdown,Desplegable
+"%1 doesn't extend \Magento\Framework\Filter\Template","%1 no extiende \Magento\Framework\Filter\Template"
+"As low as","Tan bajo como"
+test,prueba
+"Could not get extension attributes","No se pudieron obtener los atributos de la extensión"
+message,mensaje
+"Some exception","Alguna excepción"
 fl,fl
-"Lock wait timeout","Lock wait timeout"
+"Lock wait timeout","Tiempo de espera de bloqueo agotado"
 123,123
-Images,Images
-Select...,Select...
-"Advanced Pricing","Advanced Pricing"
-"Customer Group Price","Customer Group Price"
-"Customer Group","Customer Group"
-"Special Price From","Special Price From"
-To,To
-Done,Done
-"Add Selected","Add Selected"
-"Select Attribute","Select Attribute"
-"Create New Attribute","Create New Attribute"
-"Customizable Options","Customizable Options"
-"Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want."
-"Add Option","Add Option"
-"New Option","New Option"
-"Select Product","Select Product"
-"Option Title","Option Title"
-"Add Value","Add Value"
-Title,Title
-"Option Type","Option Type"
-Required,Required
-"Price Type","Price Type"
-"Max Characters","Max Characters"
-"Compatible File Extensions","Compatible File Extensions"
-"Maximum Image Size","Maximum Image Size"
+Images,Imágenes
+Select...,Seleccionar...
+"Advanced Pricing","Precio Avanzado"
+"Customer Group Price","Precio de Grupo de Cliente"
+"Customer Group","Grupo de Cliente"
+"Special Price From","Precio Especial Desde"
+To,Hasta
+Done,Hecho
+"Add Selected","Agreggar Selección"
+"Select Attribute","Seleccionar Atributo"
+"Create New Attribute","Crear Nuevo Atributo"
+"Customizable Options","Opciones personalizables"
+"Custom options let customers choose the product variations they want.","Las opciones personalizadas permiten a los clientes elegir las variaciones de productos que desean."
+"Add Option","Agregar Opción"
+"New Option","Nueva Opción"
+"Select Product","Seleccionar Producto"
+"Option Title","Título de la Opción"
+"Add Value","Agregar Valor"
+Title,Título
+"Option Type","Tipo de Opción"
+Required,Requerido
+"Price Type","Tipo de Precio"
+"Max Characters","Cant. Máx. de Caracteres"
+"Compatible File Extensions","Extensiones de Archivo Compatibles"
+"Maximum Image Size","Tamaño de Imagen Máximo"
 "Please leave blank if it is not an image.","Please leave blank if it is not an image."
 %1,%1
 "This item has weight","This item has weight"
