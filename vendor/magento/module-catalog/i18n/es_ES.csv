@@ -606,37 +606,37 @@ Show,Moostrar
 "Set Ascending Direction","Establecer dirección ascendente"
 "Set Descending Direction","Establecer dirección descendente"
 "View as","Ver como"
-"More Information","More Information"
-Loading...,Loading...
-"* Required Fields","* Required Fields"
-Availability,Availability
-"Warning message","Warning message"
-Submit,Submit
-"We don't recognize or support this file extension type.","We don't recognize or support this file extension type."
-"Configure Product","Configure Product"
+"More Information","Más Información"
+Loading...,Cargando...
+"* Required Fields","* Campos Requeridos"
+Availability,Disponibilidad
+"Warning message","Mensaje de Advertencia"
+Submit,Enviar
+"We don't recognize or support this file extension type.","No reconocemos ni admitimos este tipo de extensión de archivo."
+"Configure Product","Configurar Producto"
 OK,OK
-"This value does not follow the specified format (for example, 200X300).","This value does not follow the specified format (for example, 200X300)."
-"Select type of option.","Select type of option."
-"Please add rows to option.","Please add rows to option."
-"Please select items.","Please select items."
-"Choose existing category.","Choose existing category."
-"Image Detail","Image Detail"
-Adding...,Adding...
-Added,Added
-"does not implement Storage Interface","does not implement Storage Interface"
-"unselect all","unselect all"
-Inventory,Inventory
-"Catalog Section","Catalog Section"
-Small,Small
-Main,Main
-"Custom image","Custom image"
-"Product Fields Auto-Generation","Product Fields Auto-Generation"
-"Mask for SKU","Mask for SKU"
-"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder"
-"Mask for Meta Title","Mask for Meta Title"
-"Mask for Meta Keywords","Mask for Meta Keywords"
-"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders"
-"Mask for Meta Description","Mask for Meta Description"
+"This value does not follow the specified format (for example, 200X300).","Este valor no sigue el formato especificado (por ejemplo, 200X300)."
+"Select type of option.","Seleccione el tipo de opción."
+"Please add rows to option.","Por favor agregue filas a la opción."
+"Please select items.","Por favor seleccione los items."
+"Choose existing category.","Elija la categoría existente."
+"Image Detail","Detalle de la imagen"
+Adding...,Agregando...
+Added,Agregado
+"does not implement Storage Interface","no implementa la Interfaz de Almacenamiento"
+"unselect all","deseleccionar toodo"
+Inventory,Inventario
+"Catalog Section","Sección del catálogo"
+Small,Pequeña
+Main,Principal
+"Custom image","Imagen personalizada"
+"Product Fields Auto-Generation","Generación automática de campos de productos"
+"Mask for SKU","Máscara para el SKU"
+"Use {{name}} as Product Name placeholder","Usar {{name}} como marcador de posición del nombre del producto"
+"Mask for Meta Title","Máscara para el Meta Título"
+"Mask for Meta Keywords","Máscara para las Meta Palabras Claves"
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Utilice {{name}} como Nombre del producto o {{sku}} como marcadores de posición SKU del producto"
+"Mask for Meta Description","Máscara para MEta Descripción"
 "Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders"
 "Recently Viewed/Compared Products","Recently Viewed/Compared Products"
 "Lifetime of products in Recently Viewed Widget","Lifetime of products in Recently Viewed Widget"
