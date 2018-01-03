@@ -7,7 +7,7 @@ Index,Indice
 "Is Enabled","Está habilitado"
 "Max Number of results","Número máximo de resultados"
 "Hot Searches","Búsquedas calientes"
-"recent searches","Búsquedas reciientes"
+"recent searches","Búsquedas recientes"
 "Search Autocomplete","Autocompletado de búsqueda"
 "General Configuration","Configuración general"
 "Minimum number of characters to search","Mínimo número de caracteres para la búsqueda"
@@ -30,3 +30,4 @@ Appearance,Apariencia
 "Comma separated words. Ignore query, if search query contains any of these word.","Palabras separadas por coma. Ignorar consulta, si la consulta de búsqueda contiene alguna de estas palabras."
 "Max Number of queries","Número máximo de consultas"
 "Dictionary successfully processed.","Diccionario procesado satisfactoriamente"
+"%1 in %2","%1 en %2"
