@@ -114,7 +114,7 @@ Weight,Peso
 "Add Attribute","Agregar Atributo"
 "1 - minimum weight, 10 - maximum weight","1 - peso mínimo, 10 - peso máximo"
 "%1 (%2)","%1 (%2)"
-"Sphinx Search","SBúsqueda Sphinx"
+"Sphinx Search","Búsqueda Sphinx"
 "Search Engine Configuration","Configuración del motor de búsqueda"
 "Search Engine","Motor de búsqueda"
 "Search Settings","Configuración de búsqueda"
@@ -132,4 +132,3 @@ Weight,Peso
 "Multi-Store Search Results","Resultados de búsqueda Multi-tienda"
 "Enable Multi-Store Search Results","Habilitar resultados de búsqueda Multi-tienda"
 Stores,Tiendas
-Dictionary successfully processed.
