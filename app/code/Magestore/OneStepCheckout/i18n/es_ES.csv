@@ -68,3 +68,4 @@
 "Configure positions of fields in Billing and Shipping Address section. You can display fields into 2 columns (eg: First name + Last name) or 1 full column (eg: Address + Null)","Configurar las posiciones de los campos en la sección de direcciones de envío y facturación. Podés mostrar campos en 2 columnas (ej: Nombre + Apellido) o una columna completa (ej: Domicilio + Null)"
 "Field name already exists!","El campo nombre ya existe!"
 "Security access code (Buildings/gated communities)","Código de seguridad de acceso (Edificios/Barrios cerrados)"
+"Place order now","Finalizar pedido"
