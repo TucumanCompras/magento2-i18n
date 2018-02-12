@@ -324,7 +324,7 @@ Address,Address
 "VAT Number","VAT Number"
 City,City
 State/Province,State/Province
-"Please select a region, state or province.","Please select a region, state or province."
+"Please select a region, state or province.","Por favor seleccione una provincia."
 "Zip/Postal Code","Zip/Postal Code"
 Country,Country
 "It's a default billing address.","It's a default billing address."
