@@ -33,7 +33,7 @@ Summary,Summary
 "Product with id ""%1"" does not contain required attribute ""%2"".","Product with id ""%1"" does not contain required attribute ""%2""."
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Products ""%1"" and ""%2"" have the same set of attribute values."
 "You can't add the item to shopping cart.","You can't add the item to shopping cart."
-"You need to choose options for your item.","You need to choose options for your item."
+"You need to choose options for your item.","Elija las opciones para su articulo (Talle, color, etc)."
 "Some product variations fields are not valid.","Some product variations fields are not valid."
 "Configuration must have specified attributes","Configuration must have specified attributes"
 "Type %1 is not an instance of %2","Type %1 is not an instance of %2"
