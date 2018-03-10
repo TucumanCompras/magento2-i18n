@@ -61,5 +61,40 @@ chmod 777 -R $RUTABASE/var/tucumancompras/shell/*.sh
 chmod 777 -R $RUTABASE/var/import
 chmod 777 -R $RUTABASE/var/cache
 chmod 777 $RUTABASE/magento2-theme-manager.sh
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/unsecure/base_url http://madonnas.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/secure/base_url https://madonnas.tucumancompras.com.ar/
+
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 7 web/unsecure/base_url http://beautyperfumerias.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 7 web/secure/base_url https://beautyperfumerias.tucumancompras.com.ar/
+
+#Seteo de permisos de archivo
+chown -R bitnami:daemon $RUTABASE
+
+cd $RUTABASE
+sudo find $RUTABASE -type f -exec chmod 644 {} \;
+sudo find $RUTABASE -type d -exec chmod 755 {} \;
+sudo find $RUTABASE/var -type d -exec chmod 777 {} \;
+sudo find $RUTABASE/pub/media -type d -exec chmod 777 {} \;
+sudo find $RUTABASE/pub/static -type d -exec chmod 777 {} \;
+
+sudo chmod 777 $RUTABASE/app/etc
+sudo chmod 777 $RUTABASE/app/etc/env.php
+sudo chmod 644 $RUTABASE/app/etc/*.xml
+
+sudo chmod u+x $RUTABASE/bin/magento
+
+chmod -R g+w $RUTABASE/pub
+chmod -R g+w $RUTABASE/var
+
+chmod 777 -R $RUTABASE/var/tucumancompras/shell/*.sh
+
+chmod 777 -R $RUTABASE/var/import
+chmod 777 -R $RUTABASE/var/cache
+chmod 777 $RUTABASE/magento2-theme-manager.sh
+
+chmod 777 $RUTABASE/dply.sh
+chmod 777 -R $RUTABASE/generated
+
+echo "-=[Fin de magento_init.sh]=-"
 
 echo "-=[Fin de magento_init.sh]=-"
