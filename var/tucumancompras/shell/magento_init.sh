@@ -96,5 +96,3 @@ chmod 777 $RUTABASE/dply.sh
 chmod 777 -R $RUTABASE/generated
 
 echo "-=[Fin de magento_init.sh]=-"
-
-echo "-=[Fin de magento_init.sh]=-"
