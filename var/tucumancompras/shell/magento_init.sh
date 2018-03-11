@@ -92,7 +92,7 @@ chmod 777 -R $RUTABASE/var/import
 chmod 777 -R $RUTABASE/var/cache
 chmod 777 $RUTABASE/magento2-theme-manager.sh
 
-chmod 777 $RUTABASE/dpl.sh
-chmod 777 -R $RUTABASE/generated
+sudo chmod 777 $RUTABASE/dpl.sh
+sudo chmod -R 777 $RUTABASE/generated
 
 echo "-=[Fin de magento_init.sh]=-"
