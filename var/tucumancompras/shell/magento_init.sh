@@ -61,11 +61,6 @@ chmod 777 -R $RUTABASE/var/tucumancompras/shell/*.sh
 chmod 777 -R $RUTABASE/var/import
 chmod 777 -R $RUTABASE/var/cache
 chmod 777 $RUTABASE/magento2-theme-manager.sh
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/unsecure/base_url http://madonnas.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 6 web/secure/base_url https://madonnas.tucumancompras.com.ar/
-
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 7 web/unsecure/base_url http://beautyperfumerias.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 7 web/secure/base_url https://beautyperfumerias.tucumancompras.com.ar/
 
 #Seteo de permisos de archivo
 chown -R bitnami:daemon $RUTABASE
