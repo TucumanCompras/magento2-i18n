@@ -3,6 +3,8 @@
 #Incluyo la configuracion
 . "$(dirname "$0")"/config.sh
 
+sudo chmod -R 777 $RUTABASE/generated
+
 # Actualizo las rutas de MySQL
 
 mysql -u$BDUSER -p$BDPASS $BDNAME -e 'delete from core_config_data where path like "%base%" and scope <> "default";'
@@ -63,6 +65,5 @@ chmod 777 -R $RUTABASE/var/cache
 chmod 777 $RUTABASE/magento2-theme-manager.sh
 
 sudo chmod 777 $RUTABASE/dpl.sh
-sudo chmod -R 777 $RUTABASE/generated
 
 echo "-=[Fin de magento_init.sh]=-"
