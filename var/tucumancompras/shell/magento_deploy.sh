@@ -6,15 +6,15 @@
 alias mage="sudo php -d memory_limit=-1 -f $RUTABASE/bin/magento"
 
 echo "--> borrar cache, generation, di <-------------------------------------------------|||||||||||||||||||||"
-sudo chmod -R 775 $RUTABASE/pub/static/ $RUTABASE/var/ $RUTABASE/pub/media/ $RUTABASE/generated/ 
+sudo chmod -R 775 $RUTABASE/pub/static/ $RUTABASE/var/ $RUTABASE/pub/media/ $RUTABASE/generated/
 php -r "opcache_reset();"
 
-sudo rm -R $RUTABASE/var/view_preprocessed/* 
+sudo rm -R $RUTABASE/var/view_preprocessed/*
 sudo rm -R $RUTABASE/var/cache/*
-sudo rm -R $RUTABASE/var/page_cache/* 
+sudo rm -R $RUTABASE/var/page_cache/*
 sudo rm -R $RUTABASE/var/di/*
-sudo rm -R $RUTABASE/var/tmp/* 
-sudo rm -R $RUTABASE/var/generation/* 
+sudo rm -R $RUTABASE/var/tmp/*
+sudo rm -R $RUTABASE/var/generation/*
 sudo rm -R $RUTABASE/pub/static/frontend/*
 
 echo "--> upgrade, compile, deploy <-----------------------------------------------------|||||||||||||||||||||"
