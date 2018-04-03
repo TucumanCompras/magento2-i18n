@@ -27,8 +27,8 @@ sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 2
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 3 web/unsecure/base_url http://www.tiendamix.com.ar/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 3 web/secure/base_url https://www.tiendamix.com.ar/
 
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 4 web/unsecure/base_url http://agropac.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 4 web/secure/base_url https://agropac.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 4 web/unsecure/base_url http://www.agropac.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 4 web/secure/base_url https://www.agropac.com.ar/
 
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 5 web/unsecure/base_url http://muebleriamobel.tucumancompras.com.ar/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 5 web/secure/base_url https://muebleriamobel.tucumancompras.com.ar/
