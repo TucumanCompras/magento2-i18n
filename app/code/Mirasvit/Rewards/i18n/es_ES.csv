@@ -257,49 +257,49 @@ Expires,Vence
 "Your points balance will expire in %1 days.","Su saldo de puntos caducará en %1 días."
 "Visit My Reward Points Section","Visita mi sección de puntos de recompensa"
 "Login to earn %1 for sharing!","Inicia sesión para ganar %1 para compartir!"
-"Earn %1 for sharing!","Earn %1 for sharing!"
-"Like this page and earn %1","Like this page and earn %1"
-Share,Share
-"Share this page and earn %1","Share this page and earn %1"
-"Plus this page and earn %1","Plus this page and earn %1"
-"Pin this page and earn %1","Pin this page and earn %1"
-"Refer Friends","Refer Friends"
-"Refer friend and earn %1. More friends more points!","Refer friend and earn %1. More friends more points!"
-Tweet,Tweet
-"Tweet this page and earn %1","Tweet this page and earn %1"
-"Check this out!","Check this out!"
-"You have <b>%1</b> available.","You have <b>%1</b> available."
-Apply,Apply
-Cancel,Cancel
-"You Earn","You Earn"
-"You Spend","You Spend"
-"Discount amount","Discount amount"
-"This is a required field","This is a required field"
-"Subscription to Points Expiration Notification","Subscription to Points Expiration Notification"
-"Earning %1","Earning %1"
-"Buy to earn %1","Buy to earn %1"
-"You'll earn %1 for this item","You'll earn %1 for this item"
-"Share with Friends","Share with Friends"
-"Share the referral link in the social media and get points!","Share the referral link in the social media and get points!"
-"Tweet on Twitter","Tweet on Twitter"
-"Your referral link:","Your referral link:"
-"Send Invitations","Send Invitations"
-"Enter contacts of your friends to invite them.","Enter contacts of your friends to invite them."
-Name,Name
-Message,Message
-Referrals,Referrals
-Status,Status
-"Referred by link","Referred by link"
-"There are no Referrals","There are no Referrals"
-"You have","You have"
-available.,available.
-"Use maximum","Use maximum"
-"Enter amount of points to spend","Enter amount of points to spend"
-"Point Unit Name","Point Unit Name"
-"Reward points expire after, days","Reward points expire after, days"
-"Approve earned points on invoice","Approve earned points on invoice"
-"Approve earned points on shipment","Approve earned points on shipment"
-"Approve earned points if order has status","Approve earned points if order has status"
+"Earn %1 for sharing!","Gane %1 por compartir!"
+"Like this page and earn %1","Da Me Gusta a esta página y gana %1"
+Share,Compartir
+"Share this page and earn %1","Comparte ésta página y gana %1"
+"Plus this page and earn %1","Hacé plus en ésta página y ganá %1"
+"Pin this page and earn %1","Fija esta página y gana %1"
+"Refer Friends","Referir amigos"
+"Refer friend and earn %1. More friends more points!","Recomienda a amigo y gane %1. Más amigos más puntos!"
+Tweet,Tweetear
+"Tweet this page and earn %1","Twittea esta página y gana %1"
+"Check this out!","Mira esto!"
+"You have <b>%1</b> available.","Tienes <b>%1</b> disponible."
+Apply,Aplicar
+Cancel,Cancelar
+"You Earn","Tu ganas"
+"You Spend","Tu gastas"
+"Discount amount","Importe de descuento"
+"This is a required field","Este es un campo obligatorio"
+"Subscription to Points Expiration Notification","Suscripción a la notificación de caducidad de los puntos"
+"Earning %1","Ganado %1"
+"Buy to earn %1","Comprar para ganar %1"
+"You'll earn %1 for this item","Ganarás% 1 para este artículo"
+"Share with Friends","Compartir con amigos"
+"Share the referral link in the social media and get points!","Comparte el enlace de referencia en las redes sociales y obtén puntos!"
+"Tweet on Twitter","Tweetear en Twitter"
+"Your referral link:","Tu enlace de referencia:"
+"Send Invitations","Enviar invitaciones
+"Enter contacts of your friends to invite them.","Ingresa los contactos de tus amigos para invitarlos."
+Name,Nombre
+Message,Mensaje
+Referrals,Referencias
+Status,Estado
+"Referred by link","Referido por enlace"
+"There are no Referrals","No hay referencias"
+"You have","Tienes"
+available.,disponible.
+"Use maximum","Use máximo"
+"Enter amount of points to spend","Ingrese la cantidad de puntos para gastar"
+"Point Unit Name","Nombre de la unidad de punto"
+"Reward points expire after, days","Los puntos de recompensa caducan después de, días"
+"Approve earned points on invoice","Aprobar puntos ganados en la factura"
+"Approve earned points on shipment","Aprobar puntos ganados en el envío"
+"Approve earned points if order has status","Aprobar puntos ganados si el orden tiene estado"
 "Cancel earned points after order refunding","Cancel earned points after order refunding"
 "Restore spent points after order refunding","Restore spent points after order refunding"
 "Include discount for Earning rules","Include discount for Earning rules"
