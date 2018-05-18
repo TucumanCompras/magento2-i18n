@@ -264,7 +264,7 @@ Share,Compartir
 "Plus this page and earn %1","Hacé plus en ésta página y ganá %1"
 "Pin this page and earn %1","Fija esta página y gana %1"
 "Refer Friends","Referir amigos"
-"Refer friend and earn %1. More friends more points!","Recomienda a amigo y gane %1. Más amigos más puntos!"
+"Refer friend and earn %1. More friends more points!","Recomienda a un amigo y gane %1. Más amigos más puntos!"
 Tweet,Tweetear
 "Tweet this page and earn %1","Twittea esta página y gana %1"
 "Check this out!","Mira esto!"
@@ -300,66 +300,66 @@ available.,disponible.
 "Approve earned points on invoice","Aprobar puntos ganados en la factura"
 "Approve earned points on shipment","Aprobar puntos ganados en el envío"
 "Approve earned points if order has status","Aprobar puntos ganados si el orden tiene estado"
-"Cancel earned points after order refunding","Cancel earned points after order refunding"
-"Restore spent points after order refunding","Restore spent points after order refunding"
-"Include discount for Earning rules","Include discount for Earning rules"
-"Include tax for Earning rules","Include tax for Earning rules"
-"Include tax for Spending rules","Include tax for Spending rules"
-"Allow to earn points from shipping charges","Allow to earn points from shipping charges"
-"Allow to spend points for shipping charges","Allow to spend points for shipping charges"
-"Allow to place orders with grand total = 0","Allow to place orders with grand total = 0"
-"Allow to display product points as currency equivalent","Allow to display product points as currency equivalent"
-"Allow to display maximum amount of possible points for configurable product","Allow to display maximum amount of possible points for configurable product"
-"Email Sender","Email Sender"
-"Balance update Email","Balance update Email"
-"Points expire Email","Points expire Email"
-"Send notification before points expiring (in days)","Send notification before points expiring (in days)"
-"Enable Referral System","Enable Referral System"
-"Invitation Email Template","Invitation Email Template"
-"Show rewards points menu on frontend","Show rewards points menu on frontend"
-"Show rewards points on category page","Show rewards points on category page"
-"Show number of points on the product page","Show number of points on the product page"
-"Round earning points down","Round earning points down"
-"Custom Behavior Events","Custom Behavior Events"
-"Force to apply styles","Force to apply styles"
-"Social Networks Settings","Social Networks Settings"
+"Cancel earned points after order refunding","Cancelar los puntos ganados después de la devolución de la orden"
+"Restore spent points after order refunding","Restaurar puntos gastados después de la devolución de la orden"
+"Include discount for Earning rules","Incluir descuento para las reglas de ganancia"
+"Include tax for Earning rules","Incluir impuestos para las reglas de ganancia"
+"Include tax for Spending rules","Incluir impuestos para las reglas de Gasto"
+"Allow to earn points from shipping charges","Permitir ganar puntos de los gastos de envío"
+"Allow to spend points for shipping charges","Permitir gastar puntos por gastos de envío"
+"Allow to place orders with grand total = 0","Permitir hacer pedidos con gran total = 0"
+"Allow to display product points as currency equivalent","Permitir mostrar los puntos del producto como moneda equivalente"
+"Allow to display maximum amount of possible points for configurable product","Permitir mostrar la cantidad máxima de puntos posibles para productos configurables"
+"Email Sender","Remitente de correo electrónico"
+"Balance update Email","Balance de actualización de correo electrónico"
+"Points expire Email","Puntos caducan Correo electrónico"
+"Send notification before points expiring (in days)","Enviar notificación antes de que expiren los puntos (en días)"
+"Enable Referral System","Habilitar sistema de referencia"
+"Invitation Email Template","Plantilla de correo electrónico de invitación"
+"Show rewards points menu on frontend","Mostrar menú de puntos de recompensas en frontend"
+"Show rewards points on category page","Mostrar puntos de recompensas en la página de categoría"
+"Show number of points on the product page","Mostrar la cantidad de puntos en la página del producto"
+"Round earning points down","Ronda de puntos de ganancia hacia abajo"
+"Custom Behavior Events","Eventos de comportamiento personalizado"
+"Force to apply styles","Fuerza para aplicar estilos"
+"Social Networks Settings","Configuración de redes sociales"
 "Facebook App ID","Facebook App ID"
-"Show Facebook Like button","Show Facebook Like button"
-"Show Facebook Share button","Show Facebook Share button"
-"Show Twitter Follow button","Show Twitter Follow button"
-"Show Google Plus +1 button","Show Google Plus +1 button"
-"Show Pinterest pin button","Show Pinterest pin button"
-"Show AddThis","Show AddThis"
-"AddThis Code","AddThis Code"
-"Notification Rules' messages","Notification Rules' messages"
-Template,Template
-"Notification Rule Template","Notification Rule Template"
-Phone,Phone
+"Show Facebook Like button","Mostrar el botón Me gusta de Facebook"
+"Show Facebook Share button","Mostrar el botón Compartir de Facebook"
+"Show Twitter Follow button","Mostrar el botón Seguir de Twitter"
+"Show Google Plus +1 button","Mostrar el botón Google Plus +1"
+"Show Pinterest pin button","Mostrar el botón pin de Pinterest"
+"Show Add This","Mostrar Agregar Esto"
+"AddThis Code","Añadir este código"
+"Notification Rules' messages","Mensajes de las Reglas de notificación"
+Template,Modelo
+"Notification Rule Template","Plantilla de regla de notificación"
+Phone,Teléfono
 ZIP,ZIP
-Country,Country
-State/Province,State/Province
-"Customer Since","Customer Since"
-"Web Site","Web Site"
-"General Information","General Information"
-"Rule Name","Rule Name"
-Type,Type
-"Is Active","Is Active"
-"Active From","Active From"
-"Active To","Active To"
-Websites,Websites
-"Stop further rules processing","Stop further rules processing"
-Priority,Priority
-"Arranged in the ascending order. 0 is the highest.","Arranged in the ascending order. 0 is the highest."
-"Number of Inactive Days","Number of Inactive Days"
-Actions,Actions
-"Number of points to give (X)","Number of points to give (X)"
-"Step (Y)","Step (Y)"
-"In base currency","In base currency"
-"Quantity Step (Z)","Quantity Step (Z)"
-"Maximum number of earned points for one customer per day","Maximum number of earned points for one customer per day"
-"Assign customer to Group","Assign customer to Group"
-Notification,Notification
-"Message for customer notification email","Message for customer notification email"
+Country,País
+State/Province,Estado/Provincia
+"Customer Since","Cliente desde"
+"Web Site","Sitio web"
+"General Information","Información general"
+"Rule Name","Nombre de la regla"
+Type,Tipo
+"Is Active","Está activo"
+"Active From","Activo desde"
+"Active To","Activo a"
+Websites,Sitios web
+"Stop further rules processing","Detener el procesamiento de reglas adicionales"
+Priority,Prioridad
+"Arranged in the ascending order. 0 is the highest.","Dispuestos en orden ascendente. 0 es el más alto."
+"Number of Inactive Days","Cantidad de días inactivos"
+Actions,Acciones
+"Number of points to give (X)","Número de puntos para dar (X)"
+"Step (Y)","Paso (Y)"
+"In base currency","En moneda base"
+"Quantity Step (Z)","Paso de cantidad(Z)"
+"Maximum number of earned points for one customer per day","Número máximo de puntos ganados para un cliente por día"
+"Assign customer to Group","Asignar cliente al grupo"
+Notification,Notificación
+"Message for customer notification email","Mensaje para correo electrónico de notificación del cliente"
 "You can use the following variables:<br/>
                         {{var customer.name}} - customer name<br/>
                         {{store url=""""}} - store URL<br/>
@@ -368,53 +368,53 @@ Notification,Notification
                         {{var balance_total}} - formatted balance of customer account (e.g. 100 Rewards Points)<br/>
                         Leave empty to use default notification email.<br/>
                         
-                    ","You can use the following variables:<br/>
-                        {{var customer.name}} - customer name<br/>
-                        {{store url=""""}} - store URL<br/>
-                        {{var store.getFrontendName()}} - store name<br/>
-                        {{var transaction_amount}} - formatted amount of current transaction (e.g 10 Rewards Points)<br/>
-                        {{var balance_total}} - formatted balance of customer account (e.g. 100 Rewards Points)<br/>
-                        Leave empty to use default notification email.<br/>
+                    ","Puedes usar las siguientes variables:<br/>
+                        {{var customer.name}} - Nombre del cliente<br/>
+                        {{store url=""""}} - Tienda URL<br/>
+                        {{var store.getFrontendName()}} - Nombre de la Tienda<br/>
+                        {{var transaction_amount}} - cantidad formateada de la transacción actual (por ejemplo, 10 puntos de recompensas)<br/>
+                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 puntos de recompensas)<br/>
+                        Déjalo vacío para usar el correo electrónico de notificación predeterminado.<br/>
                         
-                    "
-"Customer Earning Style","Customer Earning Style"
-"Number of Points (X)","Number of Points (X)"
-"Earn Maximum","Earn Maximum"
-"Add New","Add New"
-"Delete items","Delete items"
-"Delete selected items?","Delete selected items?"
-"Change status","Change status"
-Enable,Enable
-Disable,Disable
-"Number of points to earn","Number of points to earn"
-Website,Website
-"Maximum Distributed Points","Maximum Distributed Points"
+                    "                        
+"Customer Earning Style","Estilo de ganancia del cliente"
+"Number of Points (X)","Número de puntos (X)"
+"Earn Maximum","Gane máximo"
+"Add New","Agregar nuevo"
+"Delete items","Eliminar objetos"
+"Delete selected items?","Eliminar elementos seleccionados?"
+"Change status","Cambiar Estado"
+Enable,Habilitar
+Disable,Inhabilitar
+"Number of points to earn","Cantidad de puntos para ganar"
+Website,Sitio Web
+"Maximum Distributed Points","Puntos máximos distribuidos"
 "You can use the following variables:<br/>
                         {{var customer.name}} - customer name<br/>
                         {{store url=""""}} - store URL<br/>
                         {{var store.getFrontendName()}} - store name<br/>
                         {{var balance_total}} - formatted balance of customer account (e.g. 100 Rewards Points)<br/>
                         
-                    ","You can use the following variables:<br/>
-                        {{var customer.name}} - customer name<br/>
-                        {{store url=""""}} - store URL<br/>
-                        {{var store.getFrontendName()}} - store name<br/>
-                        {{var balance_total}} - formatted balance of customer account (e.g. 100 Rewards Points)<br/>
+                    ","Puedes usar las siguientes variables:<br/>
+                        {{var customer.name}} - Nombre del cliente<br/>
+                        {{store url=""""}} - Tienda URL<br/>
+                        {{var store.getFrontendName()}} - Nombre de la Tienda<br/>
+                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 puntos de recompensas)<br/>
                         
-                    "
-"Show message on","Show message on"
-"Affiliate Customer","Affiliate Customer"
-"Referral Customer","Referral Customer"
-"Referral Email","Referral Email"
-"Referral Name","Referral Name"
-Store,Store
-"For each spent X points","For each spent X points"
-"Customer receive Y discount","Customer receive Y discount"
-"You can enter amount in base currency or percent. e.g. 100 or 5%.","You can enter amount in base currency or percent. e.g. 100 or 5%."
-"Spend minimum","Spend minimum"
-"Spend maximum","Spend maximum"
-Discount,Discount
-"Points Balance Change","Points Balance Change"
+                    "                        
+"Show message on","Mostrar mensaje en"
+"Affiliate Customer","Cliente afiliado"
+"Referral Customer","Cliente de referencia"
+"Referral Email","Correo electrónico de referencia"
+"Referral Name","Nombre de referencia"
+Store,Tienda
+"For each spent X points","Por cada X gastado"
+"Customer receive Y discount","El cliente recibe descuento Y"
+"You can enter amount in base currency or percent. e.g. 100 or 5%.","Puede ingresar el monto en la moneda base o porcentaje. p.ej. 100 o 5%."
+"Spend minimum","Gastar un mínimo"
+"Spend maximum","Gastar máximo"
+Discount,Descuento
+"Points Balance Change","Puntos Balance Cambiar"
 "You can use the following variables:<br>
                         {{var customer.name}} - customer name<br>
                         {{store url=""""}} - store URL<br>
@@ -423,13 +423,13 @@ Discount,Discount
                         {{var balance_total}} - formatted balance of customer account (e.g. 100 Rewards Points)<br>
                         Leave empty to use default notification email.<br>
                         
-                    ","You can use the following variables:<br>
-                        {{var customer.name}} - customer name<br>
-                        {{store url=""""}} - store URL<br>
-                        {{var store.getFrontendName()}} - store name<br>
-                        {{var transaction_amount}} - formatted amount of current transaction (e.g 10 Rewards Points)<br>
-                        {{var balance_total}} - formatted balance of customer account (e.g. 100 Rewards Points)<br>
-                        Leave empty to use default notification email.<br>
+                    ","Puedes usar las siguientes variables:<br>
+                        {{var customer.name}} - Nombre del Cliente<br>
+                        {{store url=""""}} - Tienda URL<br>
+                        {{var store.getFrontendName()}} - Nombre de la Tienda<br>
+                        {{var transaction_amount}} - cantidad formateada de la transacción actual (por ejemplo, 10 puntos de recompensas)<br>
+                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 puntos de recompensas)<br>
+                        Déjalo vacío para usar el correo electrónico de notificación predeterminado.<br>
                         
                     "
 CSV,CSV
