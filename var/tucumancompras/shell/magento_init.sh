@@ -9,8 +9,8 @@ sudo chmod -R 777 $RUTABASE/generated
 
 mysql -u$BDUSER -p$BDPASS $BDNAME -e 'delete from core_config_data where path like "%base%" and scope <> "default";'
 
-sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/unsecure/base_url http://dev.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/secure/base_url https://dev.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/unsecure/base_url http://www.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/secure/base_url https://www.tucumancompras.com.ar/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/unsecure/base_link_url {{unsecure_base_url}}
 sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/unsecure/base_static_url {{unsecure_base_url}}pub/static/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/unsecure/base_media_url {{unsecure_base_url}}pub/media/
