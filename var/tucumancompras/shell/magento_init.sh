@@ -18,11 +18,11 @@ sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 
 sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/secure/base_static_url {{secure_base_url}}pub/static/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope default --scope-id 0 web/secure/base_media_url {{secure_base_url}}pub/media/
 
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 1 web/unsecure/base_url http://dev.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 1 web/secure/base_url https://dev.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 1 web/unsecure/base_url http://www.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 1 web/secure/base_url https://www.tucumancompras.com.ar/
 
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 2 web/unsecure/base_url http://solmar.tucumancompras.com.ar/
-sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 2 web/secure/base_url https://solmar.tucumancompras.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 2 web/unsecure/base_url http://www.solmar.com.ar/
+sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 2 web/secure/base_url https://www.solmar.com.ar/
 
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 3 web/unsecure/base_url http://www.tiendamix.com.ar/
 sudo -u bitnami n98-magerun2.phar config:store:set --scope websites --scope-id 3 web/secure/base_url https://www.tiendamix.com.ar/
