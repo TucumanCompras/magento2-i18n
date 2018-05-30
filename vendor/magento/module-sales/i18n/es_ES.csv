@@ -439,7 +439,7 @@ Email,Email
 "First Name","First Name"
 "Last Name","Last Name"
 State/Province,State/Province
-"Street Address","Street Address"
+"Street Address","Domicilio"
 "Phone Number","Phone Number"
 "Zip/Postal Code","Zip/Postal Code"
 "We can't save the address:\n%1","We can't save the address:\n%1"
