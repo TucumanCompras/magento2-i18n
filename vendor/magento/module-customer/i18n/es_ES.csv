@@ -318,9 +318,9 @@ or,or
 "Delete Address","Delete Address"
 "You have no other address entries in your address book.","You have no other address entries in your address book."
 "* Required Fields","* Required Fields"
-Address,Address
-"Street Address","Street Address"
-"Street Address %1","Street Address %1"
+Address,Dirección
+"Street Address","Domicilio"
+"Street Address %1","Domicilio %1"
 "VAT Number","VAT Number"
 City,City
 State/Province,State/Province
