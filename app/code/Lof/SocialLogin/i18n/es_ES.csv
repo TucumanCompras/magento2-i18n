@@ -1,0 +1,136 @@
+"Login Activities","Registrar actividades"
+"Login success !!!","Ingreso exitoso !"
+"Please make sure your passwords match.","Por favor asegúrese que las contraseñas coincidan."
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Debe confirmar su cuenta. Por favor chequee su email para el link de confirmación o haga <a href=""%1"">click aquí</a> para un nuevo link."
+"Create an account successfully. Please wait...","Cuenta creada satisfactoriamente. Por favor espere..."
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Ya existe una cuenta con esta dirección de email. Si está seguro que esta es su dirección de email, haga <a href=""%1"">click aquí</a> to get your password and access your account."
+"Please correct the email address.","Por favor corrija la dirección de email."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Si hay una cuenta asociada con %1 recibirá un email con un link para reestablecer la contraseña."
+"We're unable to send the password reset email.","No pudimos enviar el mail para reestablecer la contraseña."
+"Login successfully. Please wait ...","Ingreso satisfactorio. Por favor espere ..."
+"Please enter a username and password.","Por favor ingrese un nombre de usuario y contraseña."
+Facebook,Facebook
+Twitter,Twitter
+Google,Google
+Amazon,Amazon
+Linkedin,Linkedin
+Github,Github
+Instagram,Instagram
+Wordpress,Wordpress
+Stackoverflow,Stackoverflow
+Paypal,Paypal
+Disqus,Disqus
+Pinterest,Pinterest
+Vimeo,Vimeo
+Dropbox,Dropbox
+Soundcloud,Soundcloud
+Default,Default
+Orange,Orange
+Green,Green
+Black,Black
+Blue,Blue
+"Dark Blue","Dark Blue"
+Pink,Pink
+Red,Red
+Violet,Violet
+Custom,Personalizado
+Zoom,Zoom
+Newspaper,Newspaper
+"Horizontal move","Mover horizontalmente"
+"Move from top","Mover desde arriba"
+"3D unfold","Desplegar 3D"
+Zoom-out,Disminuir zoom
+"Social Login Information","Social Login Information"
+"Social Logged In:","Social Logged In:"
+"Link Social:","Link Social:"
+"Social Login Chart","Social Login Chart"
+"Customer Login","Ingreso de Cliente"
+OR,O
+"Registered Customers","Clientes registrados"
+"If you have an account, sign in with your email address.","Si tiene una cuenta, If you have an account, sign in with your email address."
+"* Required Fields","* Campos requeridos"
+Email,Email
+Password,Contraseña
+"Sign In","Registrarse"
+"Forgot Your Password?","Olvidó su contraseña?"
+"Create An Account?","Crear una cuenta?"
+"Or Sign In With","O registrarse con"
+Login,Ingresar
+"Connect with","Conectar con"
+"Login By Amazon","Ingresar por Amazon"
+"Login By Disqus","Ingresar por Disqus"
+"Login By Dropbox","Ingresar por Dropbox"
+"Login By Facebook","Ingresar por Facebook"
+"Login By Github","Ingresar por Github"
+"Login By Google","Ingresar por Google"
+"Login By Instagram","Ingresar por Instagram"
+"Login By Linkedin","Ingresar por Linkedin"
+"Login By Paypal","Ingresar por Paypal"
+"Login By Pinterest","Ingresar por Pinterest"
+"Login By Soundcloud","Ingresar por Soundcloud"
+"Login By Stackoverflow","Ingresar por Stackoverflow"
+"Login By Twitter","Ingresar por Twitter"
+"Login By Vimeo","Ingresar por Vimeo"
+"Login By Wordpress","Ingresar por Wordpress"
+"Create New Account","Crear nueva cuenta"
+"New Customers","Nuevos clientes"
+"Sign Up for Newsletter","Sign Up for Newsletter"
+"Address Information","Address Information"
+Company,Compañia
+"Phone Number","Teléfono"
+"Street Address","Street Address"
+Address,Domicilio
+"Street Address %1","Street Address %1"
+City,Ciudad
+State/Province,Estado/Provincia
+"Please select a region, state or province.","Por favor seleccione una region, estado o provincia."
+"Zip/Postal Code","Código Postal"
+Country,País
+"Confirm Password","Confirmar contraseña"
+"Create an Account","Crear una cuenta"
+Back,Atrás
+"Forgot Password","Contraseña olvidada"
+"Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link."
+"Reset My Password","Reestablecer mi contraseña"
+"Go back","Atrás"
+"' . . '","' . . '"
+"Ves All - <a href=""http://landofcoder.com"" target=""_BLANK"" title=""""Magento Marketplace, Opencart Marketplace, Magento 2 Extension, Free Magento Extension, Opencart Advanced Reports"">landofcoder.com</a>","Ves All - <a href=""http://landofcoder.com"" target=""_BLANK"" title=""""Magento Marketplace, Opencart Marketplace, Magento 2 Extension, Free Magento Extension, Opencart Advanced Reports"">landofcoder.com</a>"
+"Social Login","Social Login"
+General,General
+Enable,Habilitar
+"Popup Effect","Efecto Popup"
+"Style Management","Administración de estilo"
+"Social Button Position","Social Button Position"
+"Custom CSS","CSS Personalizado"
+"Reload URL","Recargar URL"
+"Number Column on Large Desktop","Number Column on Large Desktop"
+"Large devices Desktops (≥1200px). Use in grid layout and masonry layout","Large devices Desktops (≥1200px). Use in grid layout and masonry layout"
+"Number Column on Desktop","Number Column on Desktop"
+"Medium devices Desktops (≥992px)","Medium devices Desktops (≥992px)"
+"Number Column on Tablets","Number Column on Tablets"
+"Small devices Tablets (≥768px)","Small devices Tablets (≥768px)"
+"Number Column on Phones","Number Column on Phones"
+"Small devices Tablets (≥480px)","Small devices Tablets (≥480px)"
+"Popup Layout","Popup Layout"
+"Facebook App Id","Facebook App Id"
+"Facebook App Secret","Facebook App Secret"
+"Send Password To Customer","Send Password To Customer"
+Title,Title
+"Client ID","Client ID"
+"Client Secret","Client Secret"
+"Consumer Key","Consumer Key"
+"Consumer Secret","Consumer Secret"
+LinkedIn,LinkedIn
+"API Key","API Key"
+"Client Key","Client Key"
+Key,Key
+"API Secret","API Secret"
+"App key","App key"
+"App secret","App secret"
+"Lof SocialLogin: Social Login","Lof SocialLogin: Social Login"
+"Show Social Login ","Show Social Login "
+"Number Column on Large Desktop(Grid/List)","Number Column on Large Desktop(Grid/List)"
+"Number Column on Desktop(Grid/List)","Number Column on Desktop(Grid/List)"
+"Number Column on Tablets(Grid/List)","Number Column on Tablets(Grid/List)"
+"Number Column on Phones(Grid/List)","Number Column on Phones(Grid/List)"
+"Extra small devices Phones (<768px)","Extra small devices Phones (<768px)"
