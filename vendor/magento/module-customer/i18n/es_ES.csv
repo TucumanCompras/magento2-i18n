@@ -368,9 +368,9 @@ Gender,Gender
 Name,Name
 "Tax/VAT number","Tax/VAT number"
 "Phone Number","Phone Number"
-"Welcome to %store_name","Welcome to %store_name"
+"Welcome to %store_name","Bienvenido a %store_name"
 "%name,","%name,"
-"Welcome to %store_name.","Welcome to %store_name."
+"Welcome to %store_name.","Bienvenido a %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:"
 Email:,Email:
 Password:,Password:
