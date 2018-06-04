@@ -170,7 +170,7 @@ Customers,Clientes
 "Customers Now Online","Customers Now Online"
 "Please define Wish List item ID.","Please define Wish List item ID."
 "Please load Wish List item.","Please load Wish List item."
-"Login successful.","Login successful."
+"Login successful.","Inicio de sesión correcto."
 "Invalid login or password.","Invalid login or password."
 """%1"" section source is not supported","""%1"" section source is not supported"
 "%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface"
