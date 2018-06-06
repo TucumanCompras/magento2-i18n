@@ -5,9 +5,9 @@ Product,Product
 "Product Rating","Product Rating"
 Status,Status
 Visibility,Visibility
-Nickname,Nickname
+Nickname,Nombre
 "Summary of Review","Summary of Review"
-Review,Review
+Review,Reseña
 Previous,Previous
 "Save and Previous","Save and Previous"
 "Save and Next","Save and Next"
@@ -116,7 +116,7 @@ Back,Back
 "Your Rating","Your Rating"
 "%1 %2","%1 %2"
 Summary,Summary
-"Submit Review","Submit Review"
+"Submit Review","Enviar Opinión"
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>"
 "Add Your Review","Add Your Review"
 "%1 Review(s)","%1 Review(s)"
