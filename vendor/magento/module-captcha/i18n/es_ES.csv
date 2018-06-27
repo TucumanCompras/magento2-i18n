@@ -7,7 +7,7 @@ Always,Always
 "Please enter the letters from the image","Please enter the letters from the image"
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive."
 "Reload captcha","Reload captcha"
-"Please type the letters below","Please type the letters below"
+"Please type the letters below","Por favor escriba las letras que vea en la imagen"
 "Attention: Captcha is case sensitive.","Attention: Captcha is case sensitive."
 CAPTCHA,CAPTCHA
 "Enable CAPTCHA in Admin","Enable CAPTCHA in Admin"
