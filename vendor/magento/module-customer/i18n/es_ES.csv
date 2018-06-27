@@ -183,7 +183,7 @@ Customers,Clientes
 "Please enter a password with at most %1 characters.","Please enter a password with at most %1 characters."
 "Please enter a password with at least %1 characters.","Please enter a password with at least %1 characters."
 "The password can't begin or end with a space.","The password can't begin or end with a space."
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters."
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","El mínimo de caracteres diferentes debe ser 3. Los tipos de caracteres aceptados son: minúsculas, mayúsculas, números y caracteres especiales."
 "Password cannot be the same as email address.","Password cannot be the same as email address."
 "This customer already exists in this store.","This customer already exists in this store."
 "A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website."
