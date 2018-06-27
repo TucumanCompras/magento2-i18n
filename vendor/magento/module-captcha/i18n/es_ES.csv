@@ -1,8 +1,8 @@
 Always,Always
 "After number of attempts to login","After number of attempts to login"
 "Provided form does not exist","Provided form does not exist"
-"Incorrect CAPTCHA","Incorrect CAPTCHA"
-"Incorrect CAPTCHA.","Incorrect CAPTCHA."
+"Incorrect CAPTCHA","Código incorrecto"
+"Incorrect CAPTCHA.","Código incorrecto."
 "The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1."
 "Please enter the letters from the image","Please enter the letters from the image"
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive."
