@@ -1,7 +1,11 @@
 #!/bin/sh
 
 #Incluyo la configuracion
-RUTABASE=/home/momitoys/public_html
+RUTASCRIPT="$( cd "$( dirname "$0" )" && pwd )"
+echo "ruta script :" $RUTASCRIPT
+cd ../../../
+RUTABASE="$( cd "$( dirname "$0" )" && pwd )"
+echo "ruta base :" $RUTABASE
 
 if [ -d "$RUTABASE/temporal_git" ]; then rm -Rf $RUTABASE/temporal_git; fi
 mkdir -p $RUTABASE/temporal_git
