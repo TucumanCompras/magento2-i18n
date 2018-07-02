@@ -3,6 +3,7 @@
 #Incluyo la configuracion
 RUTASCRIPT="$( cd "$( dirname "$0" )" && pwd )"
 echo "ruta script :" $RUTASCRIPT
+cd $RUTASCRIPT
 cd ../../../
 RUTABASE="$( cd "$( dirname "$0" )" && pwd )"
 echo "ruta base :" $RUTABASE
