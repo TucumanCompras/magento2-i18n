@@ -2,6 +2,7 @@
 
 #Incluyo la configuracion
 RUTASCRIPT="$( cd "$( dirname "$0" )" && pwd )"
+cd $RUTASCRIPT
 echo "ruta script :" $RUTASCRIPT
 cd "$(dirname "$(pwd)")"
 cd "$(dirname "$(pwd)")"
