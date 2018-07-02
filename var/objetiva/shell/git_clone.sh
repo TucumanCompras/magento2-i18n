@@ -3,7 +3,8 @@
 #Incluyo la configuracion
 RUTASCRIPT="$( cd "$( dirname "$0" )" && pwd )"
 echo "ruta script :" $RUTASCRIPT
-cd $(printf "%0.0s../" $(seq 3 $1));
+cd "$(dirname "$(pwd)")"
+cd "$(dirname "$(pwd)")"
 RUTABASE="$( cd "$( dirname "$0" )" && pwd )"
 echo "ruta base :" $RUTABASE
 
