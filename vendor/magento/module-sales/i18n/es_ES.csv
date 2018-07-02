@@ -56,7 +56,7 @@ Quantity,Quantity
 "Products in Comparison List","Products in Comparison List"
 "Recently Compared Products","Recently Compared Products"
 "Recently Viewed Products","Recently Viewed Products"
-"Last Ordered Items","Last Ordered Items"
+"Last Ordered Items","Ultimos Artículos Pedidos"
 "Recently Viewed","Recently Viewed"
 "Wish List","Wish List"
 "Please select a store","Please select a store"
@@ -640,7 +640,7 @@ Close,Close
 "Recent Orders","Recent Orders"
 "View All","View All"
 "Gift Message for This Order","Gift Message for This Order"
-"Recently Ordered","Recently Ordered"
+"Recently Ordered","Pedidos Recientes"
 "Add to Cart","Add to Cart"
 Search,Search
 "Credit memo for your %store_name order","Credit memo for your %store_name order"
@@ -804,3 +804,4 @@ Created,Created
 "PDF Shipments","PDF Shipments"
 "PDF Creditmemos","PDF Creditmemos"
 Refunds,Refunds
+"Last Added Items","Ultimos Artículos Agregados"
