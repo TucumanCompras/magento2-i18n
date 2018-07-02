@@ -1,47 +1,47 @@
-"Save Review","Save Review"
-"New Review","New Review"
-"Review Details","Review Details"
-Product,Product
-"Product Rating","Product Rating"
-Status,Status
-Visibility,Visibility
+"Save Review","Guardar reseña"
+"New Review","Nueva reseña"
+"Review Details","Revisar detalles"
+Product,Producto
+"Product Rating","Puntuación de Producto"
+Status,Estado
+Visibility,Visibilidad
 Nickname,Nombre
-"Summary of Review","Summary of Review"
+"Summary of Review","Resumen de la reseña"
 Review,Reseña
-Previous,Previous
-"Save and Previous","Save and Previous"
-"Save and Next","Save and Next"
-Next,Next
-"Delete Review","Delete Review"
-"Are you sure you want to do this?","Are you sure you want to do this?"
-"Edit Review '%1'","Edit Review '%1'"
+Previous,Anterior
+"Save and Previous","Guardar y volver a la anterior"
+"Save and Next","Guardar y pasar a la siguiente"
+Next,Siguiente
+"Delete Review","Eliminar reseña"
+"Are you sure you want to do this?","Está seguro que desea hacer esto?"
+"Edit Review '%1'","Editar Reseña '%1'"
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
-Administrator,Administrator
-Guest,Guest
-Author,Author
-"Summary Rating","Summary Rating"
-"Detailed Rating","Detailed Rating"
+Administrator,Administrador
+Guest,Invitado
+Author,Autor
+"Summary Rating","Resumen de puntuación"
+"Detailed Rating","Puntuación detallada"
 ID,ID
-Created,Created
-Title,Title
-Type,Type
+Created,Creada
+Title,Título
+Type,Tipo
 SKU,SKU
-Action,Action
-Edit,Edit
-Delete,Delete
-"Are you sure?","Are you sure?"
-"Update Status","Update Status"
-Customer,Customer
-"Pending Reviews of Customer `%1`","Pending Reviews of Customer `%1`"
-"Pending Reviews","Pending Reviews"
-"All Reviews of Customer `%1`","All Reviews of Customer `%1`"
-"All Reviews of Product `%1`","All Reviews of Product `%1`"
-"All Reviews","All Reviews"
-Name,Name
-"Product Store Name","Product Store Name"
-Price,Price
-Quantity,Quantity
-Websites,Websites
+Action,Acción
+Edit,Editar
+Delete,Eliminar
+"Are you sure?","Está seguro?"
+"Update Status","Actualizar estado"
+Customer,Cliente
+"Pending Reviews of Customer `%1`","Reseñas pendientes del Cliente `%1`"
+"Pending Reviews","Reseñas pendientes"
+"All Reviews of Customer `%1`","Todas las reseñas del Cliente `%1`"
+"All Reviews of Product `%1`","Todas las reseñas del Producto `%1`"
+"All Reviews","Todas las reseñas"
+Name,Nombre
+"Product Store Name","Nombre de la tienda del Producto"
+Price,Precio
+Quantity,Cantidad
+Websites,Sitios web
 "Manage Ratings","Manage Ratings"
 "Add New Rating","Add New Rating"
 "Save Rating","Save Rating"
@@ -96,40 +96,40 @@ Pending,Pending
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value."
 "Assigned Options","Assigned Options"
 "Option Title:","Option Title:"
-"Product Name","Product Name"
-Rating,Rating
-Actions,Actions
-"See Details","See Details"
+"Product Name","Nombre de Porducto"
+Rating,Puntuación
+Actions,Acciones
+"See Details","Ver detalles"
 "You have submitted no reviews.","No ha enviado reseñas."
-Back,Back
-"My Recent Reviews","My Recent Reviews"
-"View All","View All"
-"Average Customer Rating:","Average Customer Rating:"
-"Your Review","Your Review"
-"Submitted on %1","Submitted on %1"
-"Back to My Reviews","Back to My Reviews"
-"Ratings Review Summary","Ratings Review Summary"
-"Be the first to review this product","Sé el primero en opinar"
-"Write Your Own Review","Escribe Tu Opinión"
-"* Required Fields","* Required Fields"
-"You're reviewing:","Estás opinando sobre:"
-"Your Rating","Your Rating"
+Back,Atrás
+"My Recent Reviews","Mis reseñas recientes"
+"View All","Ver todo"
+"Average Customer Rating:","Puntuación promedio de cliente:"
+"Your Review","Su reseña"
+"Submitted on %1","Enviado el %1"
+"Back to My Reviews","Volver a mis reseñas"
+"Ratings Review Summary","Resumen de revisión de calificaciones"
+"Be the first to review this product","Sea el primero en opinar"
+"Write Your Own Review","Escriba su opinión"
+"* Required Fields","* Campos requeridos"
+"You're reviewing:","Está opinando sobre:"
+"Your Rating","Su puntuacion"
 "%1 %2","%1 %2"
-Summary,Summary
-"Submit Review","Enviar Opinión"
-"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>"
-"Add Your Review","Add Your Review"
-"%1 Review(s)","%1 Review(s)"
-"Review by","Review by"
-"Posted on","Posted on"
-"Back to Main Product Info","Back to Main Product Info"
-"Average Customer Rating","Average Customer Rating"
-"Product Rating:","Product Rating:"
-"Product Review (submitted on %1):","Product Review (submitted on %1):"
-"Back to Product Reviews","Back to Product Reviews"
-"By Customers","By Customers"
-"By Products","By Products"
-"Allow Guests to Write Reviews","Allow Guests to Write Reviews"
-Active,Active
-Inactive,Inactive
-"Please select one of each of the ratings above.","Please select one of each of the ratings above."
+Summary,Resumen
+"Submit Review","Enviar Reseña"
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Sólo los usuarios registrados pueden escribir reseñas. Por favor <a href=""%1"">Ingrese</a> o <a href=""%2"">cree una cuenta</a>"
+"Add Your Review","Agregar una reseña"
+"%1 Review(s)","%1 Reseña(s)"
+"Review by","Reseña por"
+"Posted on","Publicada el"
+"Back to Main Product Info","Volver a información del producto"
+"Average Customer Rating","Puntuación promedio de cliente"
+"Product Rating:","Puntuación del producto:"
+"Product Review (submitted on %1):","Reseña del producto (enviada el %1):"
+"Back to Product Reviews","Volver a reseñas de Producto"
+"By Customers","Por Clientes"
+"By Products","Por Productos"
+"Allow Guests to Write Reviews","Permitir a los visitantes escribir reseñas"
+Active,Activo
+Inactive,Inactivo
+"Please select one of each of the ratings above.","Seleccione una de las reseñas anteriores."
