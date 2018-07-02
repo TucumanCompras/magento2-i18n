@@ -6,6 +6,7 @@ cd $RUTASCRIPT
 echo "ruta script :" $RUTASCRIPT
 cd "$(dirname "$(pwd)")"
 cd "$(dirname "$(pwd)")"
+cd "$(dirname "$(pwd)")"
 RUTABASE="$( pwd )"
 echo "ruta base :" $RUTABASE
 
