@@ -6,7 +6,7 @@ cd $RUTASCRIPT
 echo "ruta script :" $RUTASCRIPT
 cd "$(dirname "$(pwd)")"
 cd "$(dirname "$(pwd)")"
-RUTABASE="$( cd "$( dirname "$0" )" && pwd )"
+RUTABASE="$( pwd )"
 echo "ruta base :" $RUTABASE
 
 if [ -d "$RUTABASE/temporal_git" ]; then rm -Rf $RUTABASE/temporal_git; fi
