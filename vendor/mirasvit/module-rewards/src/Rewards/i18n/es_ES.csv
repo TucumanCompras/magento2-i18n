@@ -231,7 +231,7 @@ Discarded,Descartado
 "Earned points will be enrolled to your account after we finish processing your order.","Los puntos ganados se inscribirán en su cuenta después de que terminemos de procesar su pedido.."
 "Rewards error occurred on the server. Please try to place the order again.","El error de recompensas ocurrió en el servidor. Intenta hacer el pedido nuevamente."
 "Possible discount %1 %2","Posible descuento %1 %2"
-"Earn %1 %2","<span class=momipesos>Gane</span><span class=momipesoscan> %1 </span><span class=momipesos> %2 </span>"
+"Earn %1 %2","<span class=momipesos>Gane</span><p class=momipesoscan> %1 </p><span class=momipesos> %2 </span>"
 "Earn at least %1 %2","Gane al menos %1 %2"
 Edit,Editar
 Back,Volver
