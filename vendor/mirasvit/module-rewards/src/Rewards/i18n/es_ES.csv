@@ -41,7 +41,7 @@ Code,Código
 "Checkout now and earn <b>%1</b> for this order.","Compre ahora y gane <b>%1</b> para este pedido."
 "Applies only to registered customers, may vary when logged in.","Se aplica solo a clientes registrados, puede variar una vez logueado."
 "Possible discount ' . . ' %1","Descuento Posible ' . . ' %1"
-"Earn ' . . ' %1","<span style= color:#a3a3a3>Gane</span> <b>' . . '</b> <span style=color:#a3a3a3>%1</span>"
+"Earn ' . . ' %1","<span style= color:#a3a3a3>Ganá</span> <b>' . . '</b> <span style=color:#a3a3a3>%1</span>"
 Grid,Grilla
 List,Lista
 All,Todo
