@@ -41,7 +41,7 @@ Code,Código
 "Checkout now and earn <b>%1</b> for this order.","Compre ahora y gane <b>%1</b> para este pedido."
 "Applies only to registered customers, may vary when logged in.","Se aplica solo a clientes registrados, puede variar una vez logueado."
 "Possible discount ' . . ' %1","Descuento Posible ' . . ' %1"
-"Earn ' . . ' %1","Ganá <b>' . . '</b> %1"
+"Earn ' . . ' %1","Gane <b>' . . '</b> %1"
 Grid,Grilla
 List,Lista
 All,Todo
@@ -231,7 +231,7 @@ Discarded,Descartado
 "Earned points will be enrolled to your account after we finish processing your order.","Los puntos ganados se inscribirán en su cuenta después de que terminemos de procesar su pedido.."
 "Rewards error occurred on the server. Please try to place the order again.","El error de recompensas ocurrió en el servidor. Intenta hacer el pedido nuevamente."
 "Possible discount %1 %2","Posible descuento %1 %2"
-"Earn %1 %2","Gane %1 %2"
+"Earn %1 %2","Ganá <b>%1</b> %2"
 "Earn at least %1 %2","Gane al menos %1 %2"
 Edit,Editar
 Back,Volver
