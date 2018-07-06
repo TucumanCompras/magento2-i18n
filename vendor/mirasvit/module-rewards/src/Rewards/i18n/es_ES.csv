@@ -47,7 +47,7 @@ List,Lista
 All,Todo
 "Referral %1","Referido %1"
 "Something went wrong while saving your subscription.","Algo anduvo mal mientras se guardaba su suscripcion."
-"We removed your subscription on expiring points notification.","Eliminamos su suscripción al momento de la notificación de los puntos."
+"We removed your subscription on expiring points notification.","Eliminamos su suscripción al momento de la notificación de los MomiPesos."
 "New Earning Rule","Nueva Regla de Ganancias"
 "Earning Rule was successfully deleted","La regla de ganancias fue eliminada exitosamente"
 "Edit Earning Rule '%1'","Editar regla de ganancias '%1'"
@@ -82,12 +82,12 @@ Rewards,Recompensas
 "Please select Transaction(s)","Seleccione Transacción (es)"
 "Transaction was successfully saved","La transacción fue guardada con éxito"
 "Unable to find Transaction to save","No se puede encontrar Transacción para guardar"
-"Cannot apply points.","No se puede aplicar los puntos."
+"Cannot apply points.","No se puede aplicar los MomiPesos."
 "You've earned %1 for Facebook Like!","Has ganado %1 por tu like en Facebook!"
 "You've earned %1 for Facebook Share!","Has ganado %1 por compartir en Facebook!"
-"Facebook Like Points has been canceled","Los Puntos por tu like en Facebook han sido cancelados"
+"Facebook Like Points has been canceled","Los MomiPesos por tu like en Facebook han sido cancelados"
 "You've earned %1 for Google+!","Has ganado %1 por Google+!"
-"G+1 Points has been canceled","Los puntos por G+1 han sido cancelados"
+"G+1 Points has been canceled","Los MomiPesos por G+1 han sido cancelados"
 "You've earned %1 for Pin!","Has ganado %1 por Pin!"
 "Invalid form key. Try again","Clave de formulario inválida Inténtalo de nuevo"
 "Customer with email %1 has been already invited to our store","El cliente con el correo electrónico %1 ya ha sido invitado a nuestra tienda"
@@ -143,9 +143,9 @@ Fixed,Fijo
 "Push Notifications sign up","Registrate en notificaciones push"
 "Referred customer signs up in store","Los clientes referidos se registran en la tienda"
 "Order from referred customer","Orden del cliente referido"
-"Points to Currency","Puntos a Moneda"
-"Currency to Points","Moneda a Puntos"
-"Customer Account > My Reward Points","Cuenta de cliente > Mis puntos de recompensa"
+"Points to Currency","MomiPesos a Moneda"
+"Currency to Points","Moneda a MomiPesos"
+"Customer Account > My Reward Points","Cuenta de cliente > Mis MomiPesos de recompensa"
 "Customer Account > My Referrals","Cuenta de cliente > Mis referencias"
 "Cart Page","Página del carrito"
 "Message Sent","Enviar mensaje"
@@ -159,7 +159,7 @@ Fixed,Fijo
 "Behavior Rule","Regla de comportamiento"
 "Transaction #%1 is expired","Transacción #%1 ha expirado"
 "Update the Product","Actualizar el producto"
-"Is Rewards Points used","Se utilizan puntos de recompensas"
+"Is Rewards Points used","Se utilizan MomiPesos de recompensas"
 "Coupon Used","Cupón utilizado"
 "Coupon Code","Código promocional"
 No,No
@@ -215,10 +215,10 @@ Thumbnail,Miniatura
 "Special Price","Precio especial"
 "Custom Product Attributes","Atributos de productos personalizados"
 "- Disable these emails -","- Deshabilitar estos correos electrónicos -"
-"Give X points to customer","Dar puntos X al cliente"
-"Give X points for every spent Y","Dar X puntos por cada Y gastado"
-"Give X points for every Z quantity","Dar X puntos por cada Z cantidad"
-"For every Y, give X points","Por cada Y, dar X puntos"
+"Give X points to customer","Dar MomiPesos X al cliente"
+"Give X points for every spent Y","Dar X MomiPesos por cada Y gastado"
+"Give X points for every Z quantity","Dar X MomiPesos por cada Z cantidad"
+"For every Y, give X points","Por cada Y, dar X MomiPesos"
 Pending,Pendiente
 Approved,Aprovado
 Discarded,Descartado
@@ -228,7 +228,7 @@ Discarded,Descartado
 "You earned %1 and spent %2 for this order.","Usted ganó %1 y gastó %2 para esta orden."
 "You spent %1 for this order.","Gastaste %1 para esta orden."
 "You earned %1 for this order.","Has ganado %1 para esta orden."
-"Earned points will be enrolled to your account after we finish processing your order.","Los puntos ganados se inscribirán en su cuenta después de que terminemos de procesar su pedido.."
+"Earned points will be enrolled to your account after we finish processing your order.","Los MomiPesos ganados se inscribirán en su cuenta después de que terminemos de procesar su pedido.."
 "Rewards error occurred on the server. Please try to place the order again.","El error de recompensas ocurrió en el servidor. Intenta hacer el pedido nuevamente."
 "Possible discount %1 %2","Posible descuento %1 %2"
 "Earn %1 %2","Gane %1 %2"
@@ -240,22 +240,22 @@ Reset,Resetear
 "Save and Continue Edit","Guardar y continuar editando"
 "Delete the record with ID ""${ $.$data.transaction_id }""","Elimine el registro con ID ""${ $.$Data.transaction_id }"""
 "Are you sure you wan't to delete the record with ID ""${ $.$data.transaction_id }""?","¿Estás seguro de que deseas eliminar el registro con ID ""${ $.$Data.transaction_id } ""?"
-"Use Reward Points","Use puntos de recompensa"
+"Use Reward Points","Use MomiPesos de recompensa"
 "%1 have <b>%2</b> available.","% 1 tiene <b>% 2</b> disponible."
-"Enter amount of points to spend:","Ingrese la cantidad de puntos para gastar:"
-"Apply Points","Aplicar puntos"
-"Cancel Points","Cancelar puntos"
+"Enter amount of points to spend:","Ingrese la cantidad de MomiPesos para gastar:"
+"Apply Points","Aplicar MomiPesos"
+"Cancel Points","Cancelar MomiPesos"
 "Use maximum %1","Usar máximo %1"
-"Points Summary","Resumen de puntos"
-"To unsubscribe from points expiring notification click %1","Para darse de baja de los puntos que expiran la notificación, haga clic en %1"
+"Points Summary","Resumen de MomiPesos"
+"To unsubscribe from points expiring notification click %1","Para darse de baja de los MomiPesos que expiran la notificación, haga clic en %1"
 "You have <b>%1</b> in your account.","Tiene <b>%1</b> en su cuenta."
 "Transactions History","Historial de transacciones"
-Points,Puntos
+Points,MomiPesos
 Created,Creado
 Expires,Vence
 "There are no Transactions.","No hay transacciones."
-"Your points balance will expire in %1 days.","Su saldo de puntos caducará en %1 días."
-"Visit My Reward Points Section","Visita mi sección de puntos de recompensa"
+"Your points balance will expire in %1 days.","Su saldo de MomiPesos caducará en %1 días."
+"Visit My Reward Points Section","Visita mi sección de MomiPesos de recompensa"
 "Login to earn %1 for sharing!","Inicia sesión para ganar %1 para compartir!"
 "Earn %1 for sharing!","Gane %1 por compartir!"
 "Like this page and earn %1","Da Me Gusta a esta página y gana %1"
@@ -264,7 +264,7 @@ Share,Compartir
 "Plus this page and earn %1","Hacé plus en ésta página y ganá %1"
 "Pin this page and earn %1","Fija esta página y gana %1"
 "Refer Friends","Referir amigos"
-"Refer friend and earn %1. More friends more points!","Recomienda a un amigo y gane %1. Más amigos más puntos!"
+"Refer friend and earn %1. More friends more points!","Recomienda a un amigo y gane %1. Más amigos más MomiPesos!"
 Tweet,Tweetear
 "Tweet this page and earn %1","Twittea esta página y gana %1"
 "Check this out!","Mira esto!"
@@ -275,12 +275,12 @@ Cancel,Cancelar
 "You Spend","Tu gastas"
 "Discount amount","Importe de descuento"
 "This is a required field","Este es un campo obligatorio"
-"Subscription to Points Expiration Notification","Suscripción a la notificación de caducidad de los puntos"
+"Subscription to Points Expiration Notification","Suscripción a la notificación de caducidad de los MomiPesos"
 "Earning %1","Ganado %1"
 "Buy to earn %1","Comprar para ganar %1"
 "You'll earn %1 for this item","Ganarás% 1 para este artículo"
 "Share with Friends","Compartir con amigos"
-"Share the referral link in the social media and get points!","Comparte el enlace de referencia en las redes sociales y obtén puntos!"
+"Share the referral link in the social media and get points!","Comparte el enlace de referencia en las redes sociales y obtén MomiPesos!"
 "Tweet on Twitter","Tweetear en Twitter"
 "Your referral link:","Tu enlace de referencia:"
 "Send Invitations","Enviar invitaciones"
@@ -294,32 +294,32 @@ Status,Estado
 "You have","Tienes"
 available.,disponible.
 "Use maximum","Use máximo"
-"Enter amount of points to spend","Ingrese la cantidad de puntos para gastar"
+"Enter amount of points to spend","Ingrese la cantidad de MomiPesos para gastar"
 "Point Unit Name","Nombre de la unidad de punto"
-"Reward points expire after, days","Los puntos de recompensa caducan después de, días"
-"Approve earned points on invoice","Aprobar puntos ganados en la factura"
-"Approve earned points on shipment","Aprobar puntos ganados en el envío"
-"Approve earned points if order has status","Aprobar puntos ganados si el orden tiene estado"
-"Cancel earned points after order refunding","Cancelar los puntos ganados después de la devolución de la orden"
-"Restore spent points after order refunding","Restaurar puntos gastados después de la devolución de la orden"
+"Reward points expire after, days","Los MomiPesos de recompensa caducan después de, días"
+"Approve earned points on invoice","Aprobar MomiPesos ganados en la factura"
+"Approve earned points on shipment","Aprobar MomiPesos ganados en el envío"
+"Approve earned points if order has status","Aprobar MomiPesos ganados si el orden tiene estado"
+"Cancel earned points after order refunding","Cancelar los MomiPesos ganados después de la devolución de la orden"
+"Restore spent points after order refunding","Restaurar MomiPesos gastados después de la devolución de la orden"
 "Include discount for Earning rules","Incluir descuento para las reglas de ganancia"
 "Include tax for Earning rules","Incluir impuestos para las reglas de ganancia"
 "Include tax for Spending rules","Incluir impuestos para las reglas de Gasto"
-"Allow to earn points from shipping charges","Permitir ganar puntos de los gastos de envío"
-"Allow to spend points for shipping charges","Permitir gastar puntos por gastos de envío"
+"Allow to earn points from shipping charges","Permitir ganar MomiPesos de los gastos de envío"
+"Allow to spend points for shipping charges","Permitir gastar MomiPesos por gastos de envío"
 "Allow to place orders with grand total = 0","Permitir hacer pedidos con gran total = 0"
-"Allow to display product points as currency equivalent","Permitir mostrar los puntos del producto como moneda equivalente"
-"Allow to display maximum amount of possible points for configurable product","Permitir mostrar la cantidad máxima de puntos posibles para productos configurables"
+"Allow to display product points as currency equivalent","Permitir mostrar los MomiPesos del producto como moneda equivalente"
+"Allow to display maximum amount of possible points for configurable product","Permitir mostrar la cantidad máxima de MomiPesos posibles para productos configurables"
 "Email Sender","Remitente de correo electrónico"
 "Balance update Email","Balance de actualización de correo electrónico"
-"Points expire Email","Puntos caducan Correo electrónico"
-"Send notification before points expiring (in days)","Enviar notificación antes de que expiren los puntos (en días)"
+"Points expire Email","MomiPesos caducan Correo electrónico"
+"Send notification before points expiring (in days)","Enviar notificación antes de que expiren los MomiPesos (en días)"
 "Enable Referral System","Habilitar sistema de referencia"
 "Invitation Email Template","Plantilla de correo electrónico de invitación"
-"Show rewards points menu on frontend","Mostrar menú de puntos de recompensas en frontend"
-"Show rewards points on category page","Mostrar puntos de recompensas en la página de categoría"
-"Show number of points on the product page","Mostrar la cantidad de puntos en la página del producto"
-"Round earning points down","Ronda de puntos de ganancia hacia abajo"
+"Show rewards points menu on frontend","Mostrar menú de MomiPesos de recompensas en frontend"
+"Show rewards points on category page","Mostrar MomiPesos de recompensas en la página de categoría"
+"Show number of points on the product page","Mostrar la cantidad de MomiPesos en la página del producto"
+"Round earning points down","Ronda de MomiPesos de ganancia hacia abajo"
 "Custom Behavior Events","Eventos de comportamiento personalizado"
 "Force to apply styles","Fuerza para aplicar estilos"
 "Social Networks Settings","Configuración de redes sociales"
@@ -352,11 +352,11 @@ Priority,Prioridad
 "Arranged in the ascending order. 0 is the highest.","Dispuestos en orden ascendente. 0 es el más alto."
 "Number of Inactive Days","Cantidad de días inactivos"
 Actions,Acciones
-"Number of points to give (X)","Número de puntos para dar (X)"
+"Number of points to give (X)","Número de MomiPesos para dar (X)"
 "Step (Y)","Paso (Y)"
 "In base currency","En moneda base"
 "Quantity Step (Z)","Paso de cantidad(Z)"
-"Maximum number of earned points for one customer per day","Número máximo de puntos ganados para un cliente por día"
+"Maximum number of earned points for one customer per day","Número máximo de MomiPesos ganados para un cliente por día"
 "Assign customer to Group","Asignar cliente al grupo"
 Notification,Notificación
 "Message for customer notification email","Mensaje para correo electrónico de notificación del cliente"
@@ -372,13 +372,13 @@ Notification,Notificación
                         {{var customer.name}} - Nombre del cliente<br/>
                         {{store url=""""}} - Tienda URL<br/>
                         {{var store.getFrontendName()}} - Nombre de la Tienda<br/>
-                        {{var transaction_amount}} - cantidad formateada de la transacción actual (por ejemplo, 10 puntos de recompensas)<br/>
-                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 puntos de recompensas)<br/>
+                        {{var transaction_amount}} - cantidad formateada de la transacción actual (por ejemplo, 10 MomiPesos de recompensas)<br/>
+                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 MomiPesos de recompensas)<br/>
                         Déjalo vacío para usar el correo electrónico de notificación predeterminado.<br/>
                         
                     "                        
 "Customer Earning Style","Estilo de ganancia del cliente"
-"Number of Points (X)","Número de puntos (X)"
+"Number of Points (X)","Número de MomiPesos (X)"
 "Earn Maximum","Gane máximo"
 "Add New","Agregar nuevo"
 "Delete items","Eliminar objetos"
@@ -386,9 +386,9 @@ Notification,Notificación
 "Change status","Cambiar Estado"
 Enable,Habilitar
 Disable,Inhabilitar
-"Number of points to earn","Cantidad de puntos para ganar"
+"Number of points to earn","Cantidad de MomiPesos para ganar"
 Website,Sitio Web
-"Maximum Distributed Points","Puntos máximos distribuidos"
+"Maximum Distributed Points","MomiPesos máximos distribuidos"
 "You can use the following variables:<br/>
                         {{var customer.name}} - customer name<br/>
                         {{store url=""""}} - store URL<br/>
@@ -399,7 +399,7 @@ Website,Sitio Web
                         {{var customer.name}} - Nombre del cliente<br/>
                         {{store url=""""}} - Tienda URL<br/>
                         {{var store.getFrontendName()}} - Nombre de la Tienda<br/>
-                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 puntos de recompensas)<br/>
+                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 MomiPesos de recompensas)<br/>
                         
                     "                        
 "Show message on","Mostrar mensaje en"
@@ -414,7 +414,7 @@ Store,Tienda
 "Spend minimum","Gastar un mínimo"
 "Spend maximum","Gastar máximo"
 Discount,Descuento
-"Points Balance Change","Puntos Balance Cambiar"
+"Points Balance Change","MomiPesos Balance Cambiar"
 "You can use the following variables:<br>
                         {{var customer.name}} - customer name<br>
                         {{store url=""""}} - store URL<br>
@@ -427,8 +427,8 @@ Discount,Descuento
                         {{var customer.name}} - Nombre del Cliente<br>
                         {{store url=""""}} - Tienda URL<br>
                         {{var store.getFrontendName()}} - Nombre de la Tienda<br>
-                        {{var transaction_amount}} - cantidad formateada de la transacción actual (por ejemplo, 10 puntos de recompensas)<br>
-                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 puntos de recompensas)<br>
+                        {{var transaction_amount}} - cantidad formateada de la transacción actual (por ejemplo, 10 MomiPesos de recompensas)<br>
+                        {{var balance_total}} - saldo formateado de la cuenta del cliente (por ejemplo, 100 MomiPesos de recompensas)<br>
                         Déjalo vacío para usar el correo electrónico de notificación predeterminado.<br>
                         
                     "
@@ -436,3 +436,4 @@ CSV,CSV
 "Excel XML","Excel XML"
 "My Referrals","Mis Referidos"
 "Referrals List","Lista de Referidos"
+
