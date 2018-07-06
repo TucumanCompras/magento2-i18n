@@ -36,7 +36,7 @@ Back,Back
 "%name,","%name,"
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:"
 "Message from %sender_name:","Message from %sender_name:"
-"Email to a Friend","Email to a Friend"
+"Email to a Friend","Enviar por correo"
 "Email Templates","Email Templates"
 Enabled,Enabled
 "Select Email Template","Select Email Template"
