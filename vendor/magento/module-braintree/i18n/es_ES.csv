@@ -121,7 +121,7 @@ Status,Status
 "PayPal Payment ID","PayPal Payment ID"
 "Created At","Created At"
 "Transaction ID","Transaction ID"
-"Order ID","Order ID"
+"Order ID","ID del Pedido"
 Type,Type
 Amount,Amount
 "Settlement Code","Settlement Code"
