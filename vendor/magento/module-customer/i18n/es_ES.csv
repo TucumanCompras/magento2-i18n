@@ -171,7 +171,7 @@ Customers,Clientes
 "Please define Wish List item ID.","Please define Wish List item ID."
 "Please load Wish List item.","Please load Wish List item."
 "Login successful.","Inicio de sesión correcto."
-"Invalid login or password.","Invalid login or password."
+"Invalid login or password.","Clave o usuario inválido."
 """%1"" section source is not supported","""%1"" section source is not supported"
 "%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface"
 "No confirmation needed.","No confirmation needed."
