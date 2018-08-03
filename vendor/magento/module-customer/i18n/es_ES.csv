@@ -309,9 +309,9 @@ Change,Change
 Newsletters,Boletines
 "You are subscribed to ""General Subscription"".","Estás suscrito a ""Suscripción General""."
 or,or
-"Default Addresses","Default Addresses"
+"Default Addresses","Direcciones por Defecto"
 "Change Billing Address","Cambiar el Domicilio de Facturación"
-"You have no default billing address in your address book.","You have no default billing address in your address book."
+"You have no default billing address in your address book.","No tiene una dirección de facturación predeterminada en su lista de direcciones."
 "Change Shipping Address","Cambiar el Domicilio de Envío"
 "You have no default shipping address in your address book.","You have no default shipping address in your address book."
 "Additional Address Entries","Domicilio Adicional"
