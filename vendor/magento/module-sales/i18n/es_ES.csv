@@ -132,8 +132,8 @@ unhold,unhold
 "Get Payment Update","Get Payment Update"
 "Invoice and Ship","Invoice and Ship"
 Invoice,Invoice
-Ship,Ship
-Reorder,Reorder
+Ship,Enviar
+Reorder,Pedir de nuevo
 "Order # %1 %2 | %3","Order # %1 %2 | %3"
 "This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed."
 "Are you sure? This order will be canceled and a new one will be created instead.","Are you sure? This order will be canceled and a new one will be created instead."
