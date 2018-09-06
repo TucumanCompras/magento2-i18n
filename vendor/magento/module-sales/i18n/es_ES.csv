@@ -285,7 +285,7 @@ Home,Home
 "We could not add a product to cart by the ID ""%1"".","We could not add a product to cart by the ID ""%1""."
 "There is an error in one of the option rows.","There is an error in one of the option rows."
 "Shipping Address: ","Shipping Address: "
-"Billing Address: ","Billing Address: "
+"Billing Address: ","Dirección de Envío: "
 "Please specify order items.","Please specify order items."
 "Please specify a shipping method.","Please specify a shipping method."
 "Please specify a payment method.","Please specify a payment method."
